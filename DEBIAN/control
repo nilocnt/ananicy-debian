@@ -1,15 +1,10 @@
-Package: ananicy
-Version: 1.1.38-1
+Package: ananicy-cpp-rules
+Version: 1.2.48-1
 Section: admin
 Priority: optional
 Architecture: amd64
-Depends: coreutils, schedtool, util-linux
+Depends: coreutils, schedtool, util-linux, systemd
 Maintainer: nilocnt <nilocnt@gmail.com>
 Homepage: https://github.com/nilocnt/ananicy-cpp-rules
 Description: Ananicy daemon with community-driven rules of CachyOS
- Ananicy (ANother Auto NICe daemon) is a shell daemon created to manage 
- processes' IO and CPU priorities.
- .
- This package includes the community-driven set of rules for popular 
- applications from CachyOS, optimized for the AnduinOS environment. Anyone 
- may add their own rule via GitHub's pull request mechanism.
+ Ananicy (ANother Auto NICe daemon) is a shell daemon created to manage processes' IO and CPU priorities. This package includes the community-driven set of rules for popular applications from CachyOS, optimized for the AnduinOS environment. Anyone may add their own rule via GitHub's pull request mechanism.

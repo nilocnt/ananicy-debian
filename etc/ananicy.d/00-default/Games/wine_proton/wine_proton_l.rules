@@ -1,0 +1,1102 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### L ###
+
+# Labyrinth City: Pierre the Maze Detective https://store.steampowered.com/app/1421790/Labyrinth_City_Pierre_the_Maze_Detective/
+{ "name": "labyrinthCity.exe", "type": "Game" }
+
+# Labyrinthine https://store.steampowered.com/app/1302240/Labyrinthine/
+{ "name": "Labyrinthine.exe", "type": "Game" }
+
+# Labyrinth of Aetheria https://store.steampowered.com/app/3301710/Labyrinth_of_Aetheria/
+{ "name": "aetheria_win.exe", "type": "Game" }
+
+# Labyrinth of Galleria: The Moon Society https://store.steampowered.com/app/1998340/Labyrinth_of_Galleria_The_Moon_Society/
+{ "name": "LabyrinthOfGalleria.exe", "type": "Game" }
+
+# Labyrinth of Refrain: Coven of Dusk https://store.steampowered.com/app/566540/Labyrinth_of_Refrain_Coven_of_Dusk/
+{ "name": "refrain.exe", "type": "Game" }
+
+# Labyrinth Of The Demon King https://store.steampowered.com/app/1804010/Labyrinth_Of_The_Demon_King/
+{ "name": "Shinigami.exe", "type": "BG_CPUIO" }
+{ "name": "Shinigami-Win64-Shipping.exe", "type": "Game" }
+
+# Labyrinth of Touhou Tri -The Dreaming Girls & The Mysterious Orbs- https://store.steampowered.com/app/3067930/Labyrinth_of_Touhou_Tri_The_Dreaming_Girls__The_Mysterious_Orbs/
+{ "name": "THLabyrinth3.exe", "type": "Game" }
+
+# LA Cops https://store.steampowered.com/app/278810/LA_Cops/
+{ "name": "lacops.exe", "type": "Game" }
+
+# Lacuna https://store.steampowered.com/app/1364100/Lacuna__A_SciFi_Noir_Adventure/
+{ "name": "Lacuna.exe", "type": "Game" }
+
+# Laika: Aged Through Blood https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/
+{ "name": "Laika Aged through Blood.exe", "type": "Game" }
+
+# Lake https://store.steampowered.com/app/1118240/Lake/
+{ "name": "Lake.exe", "type": "Game" }
+
+# Lakeburg Legacies https://store.steampowered.com/app/1584940/Lakeburg_Legacies/
+{ "name": "Lakeburg Legacies.exe", "type": "Game" }
+
+# Lakeside Bar https://store.steampowered.com/app/3417120/Lakeside_Bar/
+{ "name": "Lakeside Bar.exe", "type": "Game" }
+
+# Lakeview Cabin Collection https://store.steampowered.com/app/361990/Lakeview_Cabin_Collection/
+{ "name": "Lakeview Cabin Collection.exe", "type": "Game" }
+
+# Lambda Wars https://store.steampowered.com/app/270370/Lambda_Wars/
+{ "name": "lambdawars.exe", "type": "Game" }
+
+# La-Mulana https://store.steampowered.com/app/230700/LaMulana/
+{ "name": "LaMulanaWin.exe", "type": "Game" }
+
+# La-Mulana 2 https://store.steampowered.com/app/835430/LaMulana_2/
+{ "name": "LaMulana2.exe", "type": "Game" }
+
+# Land Drifters https://store.steampowered.com/app/2294720/Land_Drifters/
+{ "name": "Land Drifters.exe", "type": "Game" }
+
+# Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
+{ "name": "Airships 2.exe", "type": "Game" }
+
+# Landlord's Super https://store.steampowered.com/app/1127840/Landlords_Super/
+{ "name": "LandlordsSuper.exe", "type": "Game" }
+
+# Land of the Vikings https://store.steampowered.com/app/1981570/Land_of_the_Vikings/
+{ "name": "VikingOyunu.exe", "type": "BG_CPUIO" }
+{ "name": "VikingOyunu-Win64-Shipping.exe", "type": "Game" }
+
+# Langoth https://store.steampowered.com/app/581100/Langoth/
+{ "name": "Langoth.exe", "type": "Game" }
+{ "name": "Langoth-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Langoth-Win32-Shipping.exe", "type": "Game" }
+
+# Langrisser I & II https://store.steampowered.com/app/1060220/Langrisser_I__II/
+{ "name": "Langrisser I & II.exe", "type": "Game" }
+
+# L.A. Noire https://store.steampowered.com/app/110800/LA_Noire/
+{ "name": "LANoire.exe", "type": "Game" }
+
+# La Quimera https://store.steampowered.com/app/2282350/La_Quimera/
+{ "name": "LQM.exe", "type": "BG_CPUIO" }
+{ "name": "LQMSteam-Win64-Shipping.exe", "type": "Game" }
+
+# Lara Croft and the Guardian of Light https://store.steampowered.com/app/35130/Lara_Croft_and_the_Guardian_of_Light/
+{ "name": "lcgol.exe", "type": "Game" }
+
+# LARA CROFT AND THE TEMPLE OF OSIRIS https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/
+{ "name": "LC2.exe", "type": "Game" }
+
+# Lara Croft GO https://store.steampowered.com/app/540840/Lara_Croft_GO/
+{ "name": "Lara Croft GO.exe", "type": "Game" }
+
+# LASERS https://store.steampowered.com/app/2675290/LASERS/
+{ "name": "LASERS.exe", "type": "Game" }
+
+# Last Call BBS https://store.steampowered.com/app/1511780/Last_Call_BBS/
+{ "name": "Last Call BBS.exe", "type": "Game" }
+
+# Last Day of June https://store.steampowered.com/app/635320/Last_Day_of_June/
+{ "name": "LastDayOfJune.exe", "type": "Game" }
+
+# Last Epoch https://store.steampowered.com/app/899770/Last_Epoch/
+{ "name": "Last Epoch.exe", "type": "Game" }
+
+# Last Evil https://store.steampowered.com/app/823910/
+{ "name": "LastEvil.exe", "type": "Game" }
+
+# Last Group Out https://store.steampowered.com/app/1843730/Last_Group_Out/
+{ "name": "Last Group Out.exe", "type": "Game" }
+
+# Last Man Sitting https://store.steampowered.com/app/774291/Last_Man_Sitting/
+{ "name": "LMSGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LMSGame.exe", "type": "BG_CPUIO" }
+
+# Last Oasis https://store.steampowered.com/app/903950/Last_Oasis/
+{ "name": "MistClient.exe", "type": "BG_CPUIO" }
+{ "name": "MistClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "OasisLauncher.exe", "type": "BG_CPUIO" }
+
+# Last Pirates: Die Together Demo https://store.steampowered.com/app/4530130/Last_Pirates_Die_Together_Demo/
+{ "name": "Last Pirates Die Together.exe", "type": "Game" }
+
+# Last Report https://store.steampowered.com/app/3209480/Last_Report/
+{ "name": "LastReport.exe", "type": "Game" }
+
+# Last Train Outta' Wormtown https://store.steampowered.com/app/2318480/Last_Train_Outta_Wormtown/
+{ "name": "Last Train Out Of WormTown.exe", "type": "Game" }
+
+# Last Year https://store.steampowered.com/app/1195460/Last_Year/
+{ "name": "LastYear.exe", "type": "BG_CPUIO" }
+{ "name": "LastYear-Win64-Shipping.exe", "type": "Game" }
+
+# Late Shift https://store.steampowered.com/app/584980/Late_Shift/
+{ "name": "LateShift.exe", "type": "Game" }
+
+# Laundry Store Simulator https://store.steampowered.com/app/3150440/Laundry_Store_Simulator/
+{ "name": "Laundry Store Simulator.exe", "type": "Game" }
+
+# Lawgivers II https://store.steampowered.com/app/1407180/Lawgivers_II/
+{ "name": "Lawgivers II.exe", "type": "Game" }
+
+# Lawnmower Game https://store.steampowered.com/app/658600/Lawnmower_Game/
+{ "name": "Lawnmowergame.exe", "type": "BG_CPUIO" }
+{ "name": "Lawnmowergame-Win64-Shipping.exe", "type": "Game" }
+
+# Lawn Mowing Simulator https://store.steampowered.com/app/1480560/Lawn_Mowing_Simulator/
+{ "name": "Lawn Mowing Simulator.exe", "type": "Game" }
+
+# Lawn Mowing Simulator 2 Demo https://store.steampowered.com/app/4787720/Lawn_Mowing_Simulator_2_Demo/
+{ "name": "LMS2.exe", "type": "Game" }
+
+# Law School https://store.steampowered.com/app/3369070/
+{ "name": "LawSchool_S1_steam.exe", "type": "Game" }
+
+# Layers of Fear https://store.steampowered.com/app/1946700/
+{ "name": "LayersOfFear.exe", "type": "BG_CPUIO" }
+{ "name": "LayersOfFear-Win64-Shipping.exe", "type": "Game" }
+
+# Layers of Fear 2 https://store.steampowered.com/app/1029890/Layers_of_Fear_2_2019/
+{ "name": "LOF2.exe", "type": "BG_CPUIO" }
+{ "name": "LOF2-Win64-Shipping.exe", "type": "Game" }
+
+# Layers of Fear (2016) https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
+{ "name": "Layers of FearSub.exe", "type": "Game" }
+{ "name": "Layers of Fear.exe", "type": "Game" }
+
+# Lay of the Land https://store.steampowered.com/app/2776090/Lay_of_the_Land/
+{ "name": "LayOfTheLand.exe", "type": "BG_CPUIO" }
+{ "name": "LayOfTheLand-Win64-Shipping.exe", "type": "Game" }
+
+# Laysara: Summit Kingdom https://store.steampowered.com/app/1823950/Laysara_Summit_Kingdom/
+{ "name": "Laysara.exe", "type": "Game" }
+
+# Lazy Kickers https://store.steampowered.com/app/4613890/Lazy_Kickers/
+{ "name": "lazy_kickers.exe", "type": "Game" }
+
+# Lead and Gold: Gangs of the Wild West https://store.steampowered.com/app/42120/Lead_and_Gold_Gangs_of_the_Wild_West/
+{ "name": "lag_win32_public_dev.exe", "type": "Game" }
+
+# Leaf Blower Co. https://store.steampowered.com/app/3571710/Leaf_Blower_Co/
+{ "name": "LeafBlowerCo.exe", "type": "BG_CPUIO" }
+{ "name": "LeafBlowerSim-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LeafBlowerSim.exe", "type": "Game" }
+{ "name": "LeafBlowerSim-Win64-DebugGame.exe", "type": "Game" }
+
+# Leaf it Alone https://store.steampowered.com/app/3981100/Leaf_it_Alone/
+{ "name": "Leaf it Alone.exe", "type": "Game" }
+
+# Leafy Corner Demo https://store.steampowered.com/app/4534800/Leafy_Corner_Demo/
+{ "name": "LeafyCorner.exe", "type": "BG_CPUIO" }
+{ "name": "LeafyCorner-Win64-Shipping.exe", "type": "Game" }
+
+# League of Angels-Heaven's Fury https://store.steampowered.com/app/1379130/League_of_AngelsHeavens_Fury/
+{ "name": "loa-hf-steam.exe", "type": "Game" }
+
+# League of Maidens https://store.steampowered.com/app/557180/
+{ "name": "LOM.exe", "type": "Game" }
+
+# Leap of Faith https://store.steampowered.com/app/1768640/
+{ "name": "LeapofFaith.exe", "type": "Game" }
+{ "name": "LeapofFaith-32.exe", "type": "Game" }
+
+# Learn to Fly 3 https://store.steampowered.com/app/589870/Learn_to_Fly_3/
+{ "name": "Learn to Fly 3.exe", "type": "Game" }
+
+# Leaving DNA https://store.steampowered.com/app/2415240/
+{ "name": "LeavingDNA.exe", "type": "Game" }
+
+# Left 4 Dead 2 https://store.steampowered.com/app/550/Left_4_Dead_2/
+{ "name": "left4dead2.exe", "type": "Game" }
+
+# Leftovers KO! https://store.steampowered.com/app/3169060/Leftovers_KO/
+{ "name": "Rise_of_the_Left_Overs.exe", "type": "Game" }
+
+# Left to Survive https://store.steampowered.com/app/1702140/
+{ "name": "LeftToSurviveSteamLoader.exe", "type": "Game" }
+{ "name": "LeftToSurvive.exe", "type": "Game" }
+
+# Legacy of Kain: Ascendance https://store.steampowered.com/app/4233530/Legacy_of_Kain_Ascendance/
+{ "name": "Legacy of Kain Ascendance.exe", "type": "Game" }
+
+# Legacy of Kain: Soul Reaver https://store.steampowered.com/app/224920/Legacy_of_Kain_Soul_Reaver/
+{ "name": "kain2.exe", "type": "Game" }
+
+# Legacy of Kain Soul Reaver 1&2 Remastered https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
+{ "name": "SRX.exe", "type": "Game" }
+
+# Legacy of Kain: Soul Reaver 2 (2001) https://store.steampowered.com/app/224940/Legacy_of_Kain_Soul_Reaver_2_2001/
+{ "name": "sr2.exe", "type": "Game" }
+
+# Legendary https://store.steampowered.com/app/16730/Legendary/
+{ "name": "Legendary.exe", "type": "Game" }
+
+# Legendary Tales https://store.steampowered.com/app/1465070/Legendary_Tales/
+{ "name": "LegendaryTales.exe", "type": "Game" }
+
+# Legend Battles https://store.steampowered.com/app/3649730/Legend_Battles/
+{ "name": "LegendBattles-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LegendBattles.exe", "type": "BG_CPUIO" }
+
+# Legend Creatures(传奇生物) https://store.steampowered.com/app/1191840/Legend_Creatures/
+{ "name": "win.exe", "type": "Game" }
+
+# Legend of Dungeon https://store.steampowered.com/app/238280/Legend_of_Dungeon/
+{ "name": "LegendofDungeon.exe", "type": "Game" }
+{ "name": "LegendofDungeon_DirectToRift.exe", "type": "Game" }
+
+# Legend of Grimrock https://store.steampowered.com/app/207170/Legend_of_Grimrock/
+{ "name": "grimrock.exe", "type": "Game" }
+
+# Legend of Grimrock 2 https://store.steampowered.com/app/251730/Legend_of_Grimrock_2/
+{ "name": "grimrock2.exe", "type": "Game" }
+
+# Legend of Heroes: Three Kingdoms https://store.steampowered.com/app/3020510/Legend_of_Heroes_Three_Kingdoms/
+{ "name": "TKEditor.exe", "type": "Game" }
+
+# Legend of Keepers https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/
+{ "name": "LegendOfKeepers.exe", "type": "Game" }
+
+# Legend of Mana https://store.steampowered.com/app/1175830/Legend_of_Mana/
+{ "name": "Legend of Mana.exe", "type": "Game" }
+
+# Legend of Mortal https://store.steampowered.com/app/1859910/Legend_of_Mortal/
+{ "name": "Mortal.exe", "type": "Game" }
+
+# Legend of YMIR https://store.steampowered.com/app/4172530/Legend_of_YMIR/
+{ "name": "YmirSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "YmirSteam.exe", "type": "BG_CPUIO" }
+
+# Legends of Dragaea: Idle Dungeons https://store.steampowered.com/app/2712380/Legends_of_Dragaea_Idle_Dungeons/
+{ "name": "Legends Of Dragaea Idle Dungeons.exe", "type": "Game" }
+
+# Legends of Eisenwald https://store.steampowered.com/app/246760/Legends_of_Eisenwald/
+{ "name": "Eisenwald.exe", "type": "Game" }
+
+# Legends of Kingdom Rush https://store.steampowered.com/app/1904860/Legends_of_Kingdom_Rush/
+{ "name": "legends.exe", "type": "Game" }
+
+# Legends of the Round Table https://store.steampowered.com/app/2387040/Legends_of_the_Round_Table/
+{ "name": "Legends of the Round Table.exe", "type": "Game" }
+
+# Legionbound https://store.steampowered.com/app/4283360/Legionbound/
+{ "name": "Legionbound.exe", "type": "Game" }
+
+# Legion TD 2 - Multiplayer Tower Defense https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/
+{ "name": "Legion TD 2.exe", "type": "Game" }
+
+# Legion Was Here Demo https://store.steampowered.com/app/3492210/Legion_Was_Here_Demo/
+{ "name": "Legion Was Here.exe", "type": "Game" }
+
+# LEGO 2K Drive https://store.steampowered.com/app/1451810/LEGO_2K_Drive/
+{ "name": "LEGO2KDrive.exe", "type": "BG_CPUIO" }
+{ "name": "LEGO2KDrive-Win64-Shipping.exe", "type": "Game" }
+
+# LEGO Batman 2: DC Super Heroes https://store.steampowered.com/app/213330/LEGO_Batman_2_DC_Super_Heroes/
+{ "name": "LEGOBatman2.exe", "type": "Game" }
+
+# LEGO Batman 3: Beyond Gotham https://store.steampowered.com/app/313690/LEGO_Batman_3_Beyond_Gotham/
+{ "name": "LEGOBatman3.exe", "type": "Game" }
+{ "name": "LEGOBatman3_DX11.exe", "type": "Game" }
+
+# LEGO Batman: Legacy of the Dark Knight https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/
+{ "name": "LEGOBatmanLotDK.exe", "type": "BG_CPUIO" }
+{ "name": "LEGOBatmanLotDK-Win64-Shipping.exe", "type": "Game" }
+
+# LEGO Batman: The Videogame https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/
+{ "name": "LEGOBatman.exe", "type": "Game" }
+
+# LEGO Bricktales https://store.steampowered.com/app/1898290/LEGO_Bricktales/
+{ "name": "LEGO_Bricktales.exe", "type": "Game" }
+
+# LEGO Builder's Journey https://store.steampowered.com/app/1544360/LEGO_Builders_Journey/
+{ "name": "Builder's Journey.exe", "type": "Game" }
+
+# LEGO City Undercover https://store.steampowered.com/app/578330/LEGO_City_Undercover/
+{ "name": "LEGOLCUR_DX11.exe", "type": "Game" }
+
+# LEGO DC Super-Villains https://store.steampowered.com/app/829110/LEGO_DC_SuperVillains/
+{ "name": "LEGO DC Super-villains_DX11.exe", "type": "Game" }
+
+# LEGO Harry Potter Collection https://store.steampowered.com/app/2950340/LEGO_Harry_Potter_Collection/
+{ "name": "LHPC.exe", "type": "Game" }
+{ "name": "harry1.exe", "type": "Game" }
+
+# LEGO Harry Potter: Years 1-4 https://store.steampowered.com/app/21130/LEGO_Harry_Potter_Years_14/
+{ "name": "LEGOHarryPotter.exe", "type": "Game" }
+
+# LEGO Harry Potter: Years 5-7 https://store.steampowered.com/app/204120/LEGO_Harry_Potter_Years_57/
+{ "name": "harry2.exe", "type": "Game" }
+
+# LEGO Horizon Adventures https://store.steampowered.com/app/2428810/LEGO_Horizon_Adventures/
+{ "name": "LegoHorizonAdventures-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LegoHorizonAdventures.exe", "type": "BG_CPUIO" }
+
+# LEGO Indiana Jones 2: The Adventure Continues https://store.steampowered.com/app/32450/LEGO_Indiana_Jones_2_The_Adventure_Continues/
+{ "name": "LEGOIndy2.exe", "type": "Game" }
+
+# LEGO Indiana Jones: The Original Adventures https://store.steampowered.com/app/32330/LEGO_Indiana_Jones_The_Original_Adventures/
+{ "name": "LEGOIndy.exe", "type": "Game" }
+
+# LEGO Jurassic World https://store.steampowered.com/app/352400/LEGO_Jurassic_World/
+{ "name": "LEGOJurassicWorld.exe", "type": "Game" }
+{ "name": "LEGOJurassicWorld_DX11.exe", "type": "Game" }
+
+# LEGO MARVEL's Avengers https://store.steampowered.com/app/405310/LEGO_MARVELs_Avengers/
+{ "name": "LEGOMARVELAvengers.exe", "type": "Game" }
+{ "name": "LEGOMARVELAvengers_DX11.exe", "type": "Game" }
+
+# LEGO Marvel Super Heroes https://store.steampowered.com/app/249130/LEGO_Marvel_Super_Heroes/
+{ "name": "LEGOMARVEL.exe", "type": "Game" }
+
+# LEGO Marvel Super Heroes 2 https://store.steampowered.com/app/647830/LEGO_Marvel_Super_Heroes_2/
+{ "name": "LEGOMARVEL2.exe", "type": "Game" }
+{ "name": "LEGOMARVEL2_DX11.exe", "type": "Game" }
+
+# LEGO Party! https://store.steampowered.com/app/1969370/LEGO_Party/
+{ "name": "LEGO Party.exe", "type": "Game" }
+
+# LEGO Pirates of the Caribbean: The Video Game https://store.steampowered.com/app/311770/LEGO_Pirates_of_the_Caribbean_The_Video_Game/
+{ "name": "LEGOPirates.exe", "type": "Game" }
+
+# LEGO Star Wars III - The Clone Wars https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/
+{ "name": "LEGOCloneWars.exe", "type": "Game" }
+
+# LEGO Star Wars - The Complete Saga https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/
+{ "name": "LEGOStarWarsSaga.exe", "type": "Game" }
+
+# LEGO STAR WARS: The Force Awakens https://store.steampowered.com/app/438640/LEGO_STAR_WARS_The_Force_Awakens/
+{ "name": "LEGOSWTFA.exe", "type": "Game" }
+{ "name": "LEGOSWTFA_DX11.exe", "type": "Game" }
+
+# LEGO Star Wars: The Skywalker Saga https://store.steampowered.com/app/920210/LEGO_Star_Wars_The_Skywalker_Saga/
+{ "name": "LEGOSTARWARSSKYWALKERSAGA_DX11.exe", "type": "Game" }
+
+# LEGO The Hobbit https://store.steampowered.com/app/285160/LEGO_The_Hobbit/
+{ "name": "LEGOHobbit.exe", "type": "Game" }
+{ "name": "LEGOHobbit_DX11.exe", "type": "Game" }
+
+# LEGO The Incredibles https://store.steampowered.com/app/818320/LEGO_The_Incredibles/
+{ "name": "LEGO The Incredibles.exe", "type": "Game" }
+{ "name": "LEGO The Incredibles_DX11.exe", "type": "Game" }
+
+# LEGO The Lord of the Rings https://store.steampowered.com/app/214510/LEGO_The_Lord_of_the_Rings/
+{ "name": "LEGOLOTR.exe", "type": "Game" }
+
+# LEGO Voyagers https://store.steampowered.com/app/1538550/LEGO_Voyagers/
+{ "name": "LEGO Voyagers.exe", "type": "Game" }
+
+# LEGO Worlds https://store.steampowered.com/app/332310/LEGO_Worlds/
+{ "name": "LEGO_Worlds.exe", "type": "Game" }
+{ "name": "LEGO_Worlds_DX11.exe", "type": "Game" }
+
+# Leisure Suit Larry - Wet Dreams Don't Dry https://store.steampowered.com/app/765870/Leisure_Suit_Larry__Wet_Dreams_Dont_Dry/
+{ "name": "larry.exe", "type": "Game" }
+
+# Le Mans Ultimate https://store.steampowered.com/app/2399420/Le_Mans_Ultimate/
+{ "name": "Le Mans Ultimate.exe", "type": "Game" }
+
+# Lemon https://store.steampowered.com/app/3066830/Lemon/
+{ "name": "Lemon.exe", "type": "Game" }
+
+# Len's Island https://store.steampowered.com/app/1335830/Lens_Island/
+{ "name": "Len's Island.exe", "type": "Game" }
+
+# Lessaria https://store.steampowered.com/app/2461280/Lessaria_Fantasy_Kingdom_Sim/
+{ "name": "Lessaria.exe", "type": "Game" }
+
+# Lethal Company https://store.steampowered.com/app/1966720/Lethal_Company/
+{ "name": "Lethal Company.exe", "type": "Game" }
+
+# Lethal League https://store.steampowered.com/app/261180/Lethal_League/
+{ "name": "lethalleague.exe", "type": "Game" }
+
+# Lethal League Blaze https://store.steampowered.com/app/553310/Lethal_League_Blaze/
+{ "name": "LLBlaze.exe", "type": "Game" }
+
+# Lethal VR https://store.steampowered.com/app/532270/Lethal_VR/
+{ "name": "LethalVR.exe", "type": "BG_CPUIO" }
+{ "name": "LethalVR-Win64-Shipping.exe", "type": "Game" }
+
+# LET IT DIE https://store.steampowered.com/app/794600/LET_IT_DIE/
+{ "name": "BrgGame-Steam.exe", "type": "Game" }
+
+# LET IT DIE: INFERNO https://store.steampowered.com/app/2576150/LET_IT_DIE_INFERNO/
+{ "name": "LETITDIE_INFERNO.exe", "type": "BG_CPUIO" }
+{ "name": "FLCGame.exe", "type": "Game" }
+{ "name": "FLCGame-Win64-Shipping.exe", "type": "Game" }
+
+# Let's Build a Zoo https://store.steampowered.com/app/1547890/Lets_Build_a_Zoo/
+{ "name": "LetsBuildAZoo.exe", "type": "Game" }
+
+# Let's Cook Together 2 https://store.steampowered.com/app/1637400/Lets_Cook_Together_2/
+{ "name": "Let's Cook Together 2.exe", "type": "Game" }
+
+# Lets Get Loot https://store.steampowered.com/app/3454530/Lets_Get_Loot/
+{ "name": "LetsGetLoot.exe", "type": "Game" }
+
+# Let's Start Managing the Sexual Relief Department! https://store.steampowered.com/app/3436170/
+{ "name": "koreoma.exe", "type": "Game" }
+
+# Letter Lost https://store.steampowered.com/app/3624790/Letter_Lost/
+{ "name": "LetterLost.exe", "type": "Game" }
+
+# Letters https://store.steampowered.com/app/3064270/Letters/
+{ "name": "Letters.exe", "type": "Game" }
+
+# Let Them Trade https://store.steampowered.com/app/1313290/Let_Them_Trade/
+{ "name": "LetThemTrade.exe", "type": "BG_CPUIO" }
+{ "name": "LetThemTrade-Win64-Shipping.exe", "type": "Game" }
+
+# Level Devil https://store.steampowered.com/app/3242750/Level_Devil/
+{ "name": "Level Devil.exe", "type": "Game" }
+
+# Levelhead https://store.steampowered.com/app/792710/Levelhead/
+{ "name": "Levelhead_Steam.exe", "type": "Game" }
+
+# LEWDAPOCALYPSE https://store.steampowered.com/app/1271710/
+{ "name": "Lewdapocalypse.exe", "type": "Game" }
+
+# Lewd Cup https://store.steampowered.com/app/4265260/
+{ "name": "LewdCup.exe", "type": "Game" }
+
+# Lewd Dungeon Manager 🔞 Demo https://store.steampowered.com/app/4693310/
+{ "name": "Lewd Dungeon Manager DEMO.exe", "type": "Game" }
+
+# Liar Game https://store.steampowered.com/app/3555700/Liar_Game/
+{ "name": "LiarGame.exe", "type": "Game" }
+
+# Liar's Bar https://store.steampowered.com/app/3097560/Liars_Bar/
+{ "name": "Liar's Bar.exe", "type": "Game" }
+
+# Librarian: Tidy Up the Arcane Library! https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/
+{ "name": "Librarian.exe", "type": "BG_CPUIO" }
+{ "name": "Librarian-Win64-Shipping.exe", "type": "Game" }
+
+# Library Of Ruina https://store.steampowered.com/app/1256670/Library_Of_Ruina/
+{ "name": "LibraryOfRuina.exe", "type": "Game" }
+
+# Lichdom: Battlemage https://store.steampowered.com/app/261760/Lichdom_Battlemage/
+{ "name": "LichdomBattlemage.exe", "type": "Game" }
+
+# LiEat https://store.steampowered.com/app/373770/LiEat/
+{ "name": "LiEat_Launcher.exe", "type": "Game" }
+
+# Lies of P https://store.steampowered.com/app/1627720/Lies_of_P/
+{ "name": "LOP-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LOP.exe", "type": "BG_CPUIO" }
+
+# Life Goes On: Done to Death https://store.steampowered.com/app/250050/Life_Goes_On_Done_to_Death/
+{ "name": "Life Goes On.exe", "type": "Game" }
+
+# Lifeguard Holic Demo https://store.steampowered.com/app/4166970/
+{ "name": "Lifeguard Holic.exe", "type": "Game" }
+
+# Life is Feudal: Arden https://store.steampowered.com/app/3285700/Life_is_Feudal_Arden/
+{ "name": "LauncherHost.exe", "type": "Game" }
+
+# Life is Feudal: Forest Village https://store.steampowered.com/app/496460/Life_is_Feudal_Forest_Village/
+{ "name": "ForestVillage.exe", "type": "Game" }
+
+# Life is Feudal: Your Own https://store.steampowered.com/app/290080/Life_is_Feudal_Your_Own/
+{ "name": "yo_cm_client.exe", "type": "Game" }
+
+# Life is Strange 2 https://store.steampowered.com/app/532210/Life_is_Strange_2/
+{ "name": "LIS2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LIS2-Win64-Test.exe", "type": "Game" }
+{ "name": "LIS2.exe", "type": "BG_CPUIO" }
+
+# Life is Strange: Double Exposure https://store.steampowered.com/app/1874000/Life_is_Strange_Double_Exposure/
+{ "name": "Chronos.exe", "type": "BG_CPUIO" }
+{ "name": "LifeIsStrangeDoubleExposure.exe", "type": "BG_CPUIO" }
+{ "name": "Chronos-Win64-Shipping.exe", "type": "Game" }
+
+# Life is Strange - Episode 1 https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/
+{ "name": "LifeIsStrange.exe", "type": "Game" }
+
+# Life is Strange Remastered https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/
+{ "name": "LiS.exe", "type": "BG_CPUIO" }
+{ "name": "LiS-Win64-Shipping.exe", "type": "Game" }
+
+# Life is Strange: Reunion https://store.steampowered.com/app/2624870/Life_is_Strange_Reunion/
+{ "name": "LifeIsStrangeReunion.exe", "type": "BG_CPUIO" }
+{ "name": "Iris-Win64-Shipping.exe", "type": "Game" }
+
+# Life is Strange: True Colors https://store.steampowered.com/app/936790/Life_is_Strange_True_Colors/
+{ "name": "LifeIsStrange3.exe", "type": "Game" }
+{ "name": "Siren-Win64-Test.exe", "type": "Game" }
+
+# Lifeless Planet Premier Edition https://store.steampowered.com/app/261530/Lifeless_Planet_Premier_Edition/
+{ "name": "LifelessPlanet.exe", "type": "Game" }
+
+# Liftoff: FPV Drone Racing https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/
+{ "name": "Liftoff.exe", "type": "Game" }
+
+# Liftoff: Micro Drones https://store.steampowered.com/app/1432320/Liftoff_Micro_Drones/
+{ "name": "Liftoff Micro Drones.exe", "type": "Game" }
+
+# LIGHTNING RETURNS: FINAL FANTASY XIII https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/
+{ "name": "LRFF13.exe", "type": "Game" }
+
+# Lightyear Frontier https://store.steampowered.com/app/1677110/Lightyear_Frontier/
+{ "name": "LightyearFrontier.exe", "type": "BG_CPUIO" }
+{ "name": "FarMech-Win64-Shipping.exe", "type": "Game" }
+
+# Like a Dragon Gaiden: The Man Who Erased His Name https://store.steampowered.com/app/2375550/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name/
+{ "name": "likeadragongaiden.exe", "type": "Game" }
+
+# Like a Dragon: Infinite Wealth https://store.steampowered.com/app/2072450/Like_a_Dragon_Infinite_Wealth/
+{ "name": "likeadragon8.exe", "type": "Game" }
+
+# Like a Dragon: Ishin! https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
+{ "name": "LikeaDragonIshin-Win64-Shipping.exe", "type": "Game" }
+
+# Like a Dragon: Pirate Yakuza in Hawaii https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
+{ "name": "likeadragonpirates.exe", "type": "Game" }
+
+# Lil Gator Game https://store.steampowered.com/app/1586800/Lil_Gator_Game/
+{ "name": "Lil Gator Game.exe", "type": "Game" }
+
+# Lil' Guardsman https://store.steampowered.com/app/1924360/Lil_Guardsman/
+{ "name": "LilGuardsman.exe", "type": "Game" }
+
+# Lilly and Sasha: Guardian Angels https://store.steampowered.com/app/383520/Lilly_and_Sasha_Guardian_Angels/
+{ "name": "GuardianAngels.exe", "type": "Game" }
+
+# LIMBO https://store.steampowered.com/app/48000/LIMBO/
+{ "name": "limbo.exe", "type": "Game" }
+
+# Limbus Company https://store.steampowered.com/app/1973530/Limbus_Company/
+{ "name": "LimbusCompany.exe", "type": "Game" }
+
+# Limitless Survivor Demo https://store.steampowered.com/app/4624540/Limitless_Survivor_Demo/
+{ "name": "Limitless Survivors.exe", "type": "Game" }
+
+# Line of Sight https://store.steampowered.com/app/436520/Line_of_Sight/
+{ "name": "LSGame.exe", "type": "Game" }
+{ "name": "LSGame_BE.exe", "type": "BG_CPUIO" }
+
+# Line War https://store.steampowered.com/app/1309610/Line_War/
+{ "name": "LineWarClient.exe", "type": "Game" }
+
+# Lingo https://store.steampowered.com/app/1814170/Lingo/
+{ "name": "Lingo.exe", "type": "Game" }
+
+# Lingo 2 https://store.steampowered.com/app/2523310/Lingo_2/
+{ "name": "Lingo2.exe", "type": "Game" }
+
+# Liquor Store Simulator https://store.steampowered.com/app/3124550/Liquor_Store_Simulator/
+{ "name": "Liquor Store Simulator.exe", "type": "Game" }
+
+# LISA https://store.steampowered.com/app/335670/LISA_The_Painful/
+{ "name": "lisa.exe", "type": "Game" }
+{ "name": "LISA The Joyful Definitive Edition.exe", "type": "Game" }
+{ "name": "LISA The Painful Definitive Edition.exe", "type": "Game" }
+
+# LISC https://store.steampowered.com/app/3063520/
+{ "name": "LISC.exe", "type": "Game" }
+
+# Literally Just Pixels On A Screen https://store.steampowered.com/app/3072000/Literally_Just_Pixels_On_A_Screen/
+{ "name": "Literally_Just_Pixels_On_A_Screen.exe", "type": "Game" }
+
+# Little Big Workshop https://store.steampowered.com/app/574720/Little_Big_Workshop/
+{ "name": "LittleBigWorkshop.exe", "type": "Game" }
+
+# Little Busters! English Edition https://store.steampowered.com/app/635940/Little_Busters_English_Edition/
+{ "name": "LITBUS_WIN32.exe", "type": "Game" }
+
+# Little Fighter 2 Remastered https://store.steampowered.com/app/3249650/Little_Fighter_2_Remastered/
+{ "name": "lf2.exe", "type": "Game" }
+
+# Little Goody Two Shoes https://store.steampowered.com/app/1812370/Little_Goody_Two_Shoes/
+{ "name": "LGTS.exe", "type": "Game" }
+
+# Little Incrementisles https://store.steampowered.com/app/4877110/Little_Incrementisle/
+{ "name": "Little Incrementisle.exe", "type": "Game" }
+
+# Little Inferno https://store.steampowered.com/app/221260/Little_Inferno/
+{ "name": "Little Inferno.exe", "type": "Game" }
+
+# Little Kitty, Big City https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/
+{ "name": "Little Kitty, Big City.exe", "type": "Game" }
+
+# Little-Known Galaxy https://store.steampowered.com/app/2521600/LittleKnown_Galaxy/
+{ "name": "Little-Known Galaxy.exe", "type": "Game" }
+
+# Little Misfortune https://store.steampowered.com/app/714120/Little_Misfortune/
+{ "name": "Little Misfortune.exe", "type": "Game" }
+
+# Little Nemo and the Guardians of Slumberland https://store.steampowered.com/app/2074630/Little_Nemo_and_the_Guardians_of_Slumberland/
+{ "name": "Little Nemo.exe", "type": "Game" }
+
+# Little Nightmares https://store.steampowered.com/app/424840/Little_Nightmares/
+{ "name": "LittleNightmares.exe", "type": "Game" }
+
+# Little Nightmares Enhanced Edition https://store.steampowered.com/app/2149010/Little_Nightmares_Enhanced_Edition/
+{ "name": "Little_Nightmares_Enhanced.exe", "type": "BG_CPUIO" }
+{ "name": "Atlas-Win64-Shipping.exe", "type": "Game" }
+
+# Little Nightmares II https://store.steampowered.com/app/860510/Little_Nightmares_II/
+{ "name": "Little Nightmares II.exe", "type": "Game" }
+
+# Little Nightmares II Demo https://store.steampowered.com/app/1443440/
+{ "name": "Little Nightmares II Demo.exe", "type": "BG_CPUIO" }
+{ "name": "Helios-Win64-Shipping.exe", "type": "Game" }
+
+# Little Nightmares III https://store.steampowered.com/app/1392860/Little_Nightmares_III/
+{ "name": "LittleNightmaresIII.exe", "type": "Game" }
+
+# Little Noah: Scion of Paradise https://store.steampowered.com/app/1883260/Little_Noah_Scion_of_Paradise/
+{ "name": "LittleNoah.exe", "type": "Game" }
+
+# Little Rocket Lab https://store.steampowered.com/app/2451100/Little_Rocket_Lab/
+{ "name": "LittleRocketLab.exe", "type": "Game" }
+
+# Little Sim World https://store.steampowered.com/app/1429880/Little_Sim_World/
+{ "name": "Little Sim World.exe", "type": "Game" }
+
+# Little Witch Academia: Chamber of Time https://store.steampowered.com/app/710470/Little_Witch_Academia_Chamber_of_Time/
+{ "name": "LWA.exe", "type": "Game" }
+
+# Little Witch in the Woods https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/
+{ "name": "LWIW.exe", "type": "Game" }
+
+# Little Witch Nobeta https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
+{ "name": "LittleWitchNobeta.exe", "type": "Game" }
+
+# Littlewood https://store.steampowered.com/app/894940/Littlewood/
+{ "name": "Littlewood.exe", "type": "Game" }
+
+# LIV https://store.steampowered.com/app/755540/LIV/
+{ "name": "LIV.App.exe", "type": "Game" }
+
+# LIVE A LIVE https://store.steampowered.com/app/2014380/LIVE_A_LIVE/
+{ "name": "LIVEALIVE.exe", "type": "BG_CPUIO" }
+{ "name": "LIVEALIVE-Win64-Shipping.exe", "type": "Game" }
+
+# Live Wallpaper https://store.steampowered.com/app/4056970/Live_Wallpaper/
+{ "name": "Wallpaper.exe", "type": "BG_CPUIO" }
+
+# Liveza: Death of the Earth https://store.steampowered.com/app/463100/Liveza_Death_of_the_Earth/
+{ "name": "Liveza-Death Of The Earth.exe", "type": "Game" }
+
+# LivingBattle https://store.steampowered.com/app/3353830/LivingBattle/
+{ "name": "LivingBattle.exe", "type": "Game" }
+
+# LivingForest https://store.steampowered.com/app/3027490/LivingForest/
+{ "name": "LivingForest.exe", "type": "BG_CPUIO" }
+{ "name": "UMSPV5-Win64-Shipping.exe", "type": "Game" }
+
+# Living with my Little Sister https://store.steampowered.com/app/3478020/Living_with_my_Little_Sister/
+{ "name": "sister30days.exe", "type": "Game" }
+
+# LIZARDS MUST DIE https://store.steampowered.com/app/2532550/LIZARDS_MUST_DIE/
+{ "name": "LizardsMustDie.exe", "type": "Game" }
+
+# LIZARDS MUST DIE 2 https://store.steampowered.com/app/3107800/LIZARDS_MUST_DIE_2/
+{ "name": "Lizards_Must_Die_2.exe", "type": "Game" }
+
+# Loadout https://store.steampowered.com/app/208090/Loadout/
+{ "name": "Loadout.exe", "type": "Game" }
+
+# Loafing Town https://store.steampowered.com/app/3625210/Loafing_Town/
+{ "name": "LoafingTown.exe", "type": "Game" }
+
+# Lobotomy Corporation | Monster Management Simulation https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/
+{ "name": "LobotomyCorp.exe", "type": "Game" }
+
+# LOCKDOWN Protocol https://store.steampowered.com/app/2780980/LOCKDOWN_Protocol/
+{ "name": "LockdownProtocol.exe", "type": "BG_CPUIO" }
+{ "name": "LockdownProtocol-Win64-Shipping.exe", "type": "Game" }
+
+# LocoCycle https://store.steampowered.com/app/224040/LocoCycle/
+{ "name": "Lococycle32.exe", "type": "Game" }
+{ "name": "Lococycle64.exe", "type": "Game" }
+
+# Locomoto https://store.steampowered.com/app/2328650/Locomoto/
+{ "name": "Locomoto.exe", "type": "Game" }
+
+# Loddlenaut https://store.steampowered.com/app/1644940/Loddlenaut/
+{ "name": "Loddlenaut.exe", "type": "Game" }
+
+# Logic Town https://store.steampowered.com/app/2333240/Logic_Town/
+{ "name": "Logic Town.exe", "type": "Game" }
+
+# LOGistICAL: Earth https://store.steampowered.com/app/672150/LOGistICAL_3_Earth/
+{ "name": "LogisticalApp.exe", "type": "Game" }
+
+# Log Riders https://store.steampowered.com/app/4082750/Log_Riders/
+{ "name": "Log Riders.exe", "type": "Game" }
+
+# LOLLIPOP CHAINSAW RePOP https://store.steampowered.com/app/2658450/LOLLIPOP_CHAINSAW_RePOP/
+{ "name": "lollipop.exe", "type": "BG_CPUIO" }
+{ "name": "lollipop-Win64-Shipping.exe", "type": "Game" }
+
+# Lonely Mountains: Downhill https://store.steampowered.com/app/711540/Lonely_Mountains_Downhill/
+{ "name": "LMD_Win_x64.exe", "type": "Game" }
+
+# Lonely Mountains: Snow Riders https://store.steampowered.com/app/2545360/Lonely_Mountains_Snow_Riders/
+{ "name": "LMSR_Windows64_Steam.exe", "type": "Game" }
+
+# LONESTAR https://store.steampowered.com/app/2056210/LONESTAR/
+{ "name": "LONESTAR.exe", "type": "Game" }
+
+# Lone Survivor: The Director's Cut https://store.steampowered.com/app/209830/Lone_Survivor_The_Directors_Cut/
+{ "name": "LoneSurvivor.exe", "type": "Game" }
+
+# Long Live The Queen https://store.steampowered.com/app/251990/Long_Live_The_Queen/
+{ "name": "LongLiveTheQueen.exe", "type": "Game" }
+
+# Longvinter https://store.steampowered.com/app/1635450/Longvinter/
+{ "name": "Longvinter.exe", "type": "BG_CPUIO" }
+{ "name": "Longvinter-Win64-Shipping.exe", "type": "Game" }
+
+# Looking For Fael https://store.steampowered.com/app/2521170/Looking_For_Fael/
+{ "name": "LookingForFael.exe", "type": "BG_CPUIO" }
+{ "name": "LookingForFael-Win64-Shipping.exe", "type": "Game" }
+
+# Loop Hero https://store.steampowered.com/app/1282730/Loop_Hero/
+{ "name": "Loop Hero.exe", "type": "Game" }
+
+# Loop Queen-Escape Dungeon 3 https://store.steampowered.com/app/1950450/
+{ "name": "LoopQueen.exe", "type": "Game" }
+
+# Loop Tower: Prologue https://store.steampowered.com/app/4491220/Loop_Tower_Prologue/
+{ "name": "Loop Tower.exe", "type": "Game" }
+
+# Lootborne Demo https://store.steampowered.com/app/4677640/Lootborne_Demo/
+{ "name": "Lootborne.exe", "type": "Game" }
+
+# Loot Box https://store.steampowered.com/app/3121070/Loot_Box/
+{ "name": "Loot Box.exe", "type": "Game" }
+
+# Loot Loop https://store.steampowered.com/app/3972320/Loot_Loop/
+{ "name": "LootLoop.exe", "type": "BG_CPUIO" }
+{ "name": "LootLoop-Win64-Shipping.exe", "type": "Game" }
+
+# Loot of Baal https://store.steampowered.com/app/3358250/Loot_of_Baal/
+{ "name": "Loot of Baal.exe", "type": "Game" }
+
+# LOOTPLOT https://store.steampowered.com/app/3057190/LOOTPLOT/
+{ "name": "umg.exe", "type": "Game" }
+
+# Loot Tycoon https://store.steampowered.com/app/4165310/Loot_Tycoon/
+{ "name": "Loot Tycoon.exe", "type": "Game" }
+
+# Lootun https://store.steampowered.com/app/1960270/Lootun/
+{ "name": "Lootun.exe", "type": "Game" }
+
+# Lord of the Rings: War in the North https://store.steampowered.com/app/32800/Lord_of_the_Rings_War_in_the_North/
+{ "name": "witn.exe", "type": "Game" }
+
+# Lords Mobile: Kingdom Wars https://store.steampowered.com/app/1041320/Lords_Mobile_Kingdom_Wars/
+{ "name": "Lords Mobile.exe", "type": "Game" }
+
+# Lords of Magic: Special Edition https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/
+{ "name": "LOMLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "lomse.exe", "type": "Game" }
+
+# Lords of the Fallen https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/
+{ "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LOTF2.exe", "type": "BG_CPUIO" }
+
+# Lords Of The Fallen 2014 https://store.steampowered.com/app/265300/Lords_Of_The_Fallen_2014/
+{ "name": "LordsOfTheFallen.exe", "type": "Game" }
+
+# Lords of the Realm II https://store.steampowered.com/app/397350/Lords_of_the_Realm_II/
+{ "name": "LOTR2Launcher.exe", "type": "Game" }
+{ "name": "Lords2.exe", "type": "Game" }
+
+# LORED https://store.steampowered.com/app/3418150/LORED/
+{ "name": "LORED.exe", "type": "Game" }
+
+# Lorelei and the Laser Eyes https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/
+{ "name": "Lorelei and the Laser Eyes.exe", "type": "Game" }
+
+# Lorn's Lure https://store.steampowered.com/app/1417930/Lorns_Lure/
+{ "name": "LornsLure.exe", "type": "Game" }
+
+# LORT https://store.steampowered.com/app/2956680/LORT/
+{ "name": "LortGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LortGame.exe", "type": "BG_CPUIO" }
+
+# Lossless Scaling https://store.steampowered.com/app/993090/Lossless_Scaling/
+{ "name": "LosslessScaling.exe", "type": "BG_CPUIO" }
+
+# Loss Prevention Demo https://store.steampowered.com/app/4335770/Loss_Prevention_Demo/
+{ "name": "LossPrevention.exe", "type": "Game" }
+
+# Lost https://store.steampowered.com/app/1126290/Lost/
+{ "name": "Lost.exe", "type": "Game" }
+
+# Lost2 https://store.steampowered.com/app/1930640/Lost2/
+{ "name": "Lost2.exe", "type": "Game" }
+
+# Lost and Found Co. https://store.steampowered.com/app/2101390/Lost_and_Found_Co/
+{ "name": "Lost and Found Co.exe", "type": "Game" }
+
+# Lost Ark https://store.steampowered.com/app/1599340/Lost_Ark/
+{ "name": "LOSTARK.exe", "type": "Game" }
+
+# Lost But Found https://store.steampowered.com/app/3204250/Lost_But_Found/
+{ "name": "Lost But Found.exe", "type": "Game" }
+
+# Lost Castle / 失落城堡 https://store.steampowered.com/app/434650/Lost_Castle__失落城堡/
+{ "name": "Lost_Castle.exe", "type": "Game" }
+
+# Lost Castle 2 https://store.steampowered.com/app/2445690/Lost_Castle_2/
+{ "name": "LostCastle2.exe", "type": "Game" }
+
+# Lost Eidolons https://store.steampowered.com/app/1580520/Lost_Eidolons/
+{ "name": "LostEidolons.exe", "type": "Game" }
+
+# Lost Eidolons: Veil of the Witch https://store.steampowered.com/app/2530490/Lost_Eidolons_Veil_of_the_Witch/
+{ "name": "VOTW.exe", "type": "Game" }
+
+# Lost in Anomaly https://store.steampowered.com/app/3312020/Lost_in_Anomaly/
+{ "name": "Lost in Anomaly.exe", "type": "Game" }
+
+# Lost In Fantaland https://store.steampowered.com/app/1266430/Lost_In_Fantaland/
+{ "name": "Lost In Fantaland.exe", "type": "Game" }
+
+# Lost in Play https://store.steampowered.com/app/1328840/Lost_in_Play/
+{ "name": "LostInPlay.exe", "type": "Game" }
+
+# Lost in Random https://store.steampowered.com/app/1462570/Lost_in_Random/
+{ "name": "Lost In Random.exe", "type": "Game" }
+
+# Lost in Random: The Eternal Die https://store.steampowered.com/app/2564520/Lost_in_Random_The_Eternal_Die/
+{ "name": "TheEternalDie.exe", "type": "Game" }
+
+# Lost Judgment https://store.steampowered.com/app/2058190/Lost_Judgment/
+{ "name": "LostJudgment.exe", "type": "Game" }
+
+# Lost Lands: A Hidden Object Adventure https://store.steampowered.com/app/392950/Lost_Lands_A_Hidden_Object_Adventure/
+{ "name": "LostLandsF2P.exe", "type": "Game" }
+
+# Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
+{ "name": "Game_x64r.exe", "type": "Game" }
+
+# LOST PLANET 3 https://store.steampowered.com/app/226720/LOST_PLANET_3/
+{ "name": "LP3Launcher.exe", "type": "Game" }
+{ "name": "LostPlanetGame.exe", "type": "Game" }
+
+# Lost Planet: Extreme Condition https://store.steampowered.com/app/6510/Lost_Planet_Extreme_Condition/
+{ "name": "LostPlanetDX10.exe", "type": "Game" }
+{ "name": "LostPlanetDX9.exe", "type": "Game" }
+
+# Lost Records: Bloom & Rage https://store.steampowered.com/app/1902960/Lost_Records_Bloom__Rage/
+{ "name": "Bloom&Rage.exe", "type": "Game" }
+
+# Lost Rift https://store.steampowered.com/app/3494520/Lost_Rift/
+{ "name": "VictoriaClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "VictoriaClient.exe", "type": "BG_CPUIO" }
+
+# Lost Ruins https://store.steampowered.com/app/1306630/Lost_Ruins/
+{ "name": "LostRuins.exe", "type": "Game" }
+
+# Lost Skies https://store.steampowered.com/app/1931180/Lost_Skies/
+{ "name": "LostSkies.exe", "type": "Game" }
+
+# LostWinds https://store.steampowered.com/app/447780/LostWinds/
+{ "name": "LW1.exe", "type": "Game" }
+
+# LostWinds 2: Winter of the Melodias https://store.steampowered.com/app/447800/LostWinds_2_Winter_of_the_Melodias/
+{ "name": "LW2.exe", "type": "Game" }
+
+# Lots of Cats on an Adventure https://store.steampowered.com/app/3777270/Lots_of_Cats_on_an_Adventure/
+{ "name": "Lots of Cats on an Adventure.exe", "type": "Game" }
+
+# Lou's Lagoon Demo https://store.steampowered.com/app/3499130/Lous_Lagoon_Demo/
+{ "name": "Lou's Lagoon.exe", "type": "Game" }
+
+# LOVE https://store.steampowered.com/app/269270/LOVE/
+{ "name": "LOVE-Classic.exe", "type": "Game" }
+{ "name": "Love.exe", "type": "Game" }
+
+# Love and Sex: Second Base https://store.steampowered.com/app/1264710/
+{ "name": "LoSeSb-32.exe", "type": "Game" }
+{ "name": "LoSeSb.exe", "type": "Game" }
+
+# LoveBeat https://store.steampowered.com/app/354290/LoveBeat/
+{ "name": "LoveBeat.exe", "type": "Game" }
+
+# lovebyte Demo https://store.steampowered.com/app/3720090/
+{ "name": "lovebyte.exe", "type": "Game" }
+
+# Love challenge https://store.steampowered.com/app/2334130/
+{ "name": "LoveChallenge.exe", "type": "Game" }
+
+# LoveChoice https://store.steampowered.com/app/939400/LoveChoice/
+{ "name": "LoveChoice.exe", "type": "Game" }
+
+# Love Confessions on the Adventure https://store.steampowered.com/app/3633750/
+{ "name": "冒險途中全員告白.exe", "type": "Game" }
+
+# LoveCraft https://store.steampowered.com/app/2692440/
+{ "name": "Curio.exe", "type": "Game" }
+
+# Love Curse: Find Your Soulmate https://store.steampowered.com/app/3069120/Love_Curse_Find_Your_Soulmate/
+{ "name": "love_curse.exe", "type": "Game" }
+{ "name": "love_curse_game.exe", "type": "Game" }
+
+# LOVE ETERNAL https://store.steampowered.com/app/3010610/LOVE_ETERNAL/
+{ "name": "LoveEternal.exe", "type": "Game" }
+
+# LOVE Hotel Simulator 🏩 Demo https://store.steampowered.com/app/3490200/
+{ "name": "LOVE Hotel Simulator Demo.exe", "type": "Game" }
+
+# Love Is All Around https://store.steampowered.com/app/2322560/Love_Is_All_Around/
+{ "name": "WD.exe", "type": "Game" }
+
+# Love is All Around: Echoes of Yesterday https://store.steampowered.com/app/3099660/Love_is_All_Around_Echoes_of_Yesterday/
+{ "name": "WDHD5.exe", "type": "Game" }
+
+# Love Love Mystery Club https://store.steampowered.com/app/3904990/Love_Love_Mystery_Club/
+{ "name": "LoveLoveMysteryClub.exe", "type": "Game" }
+
+# Love, Money, Rock'n'Roll https://store.steampowered.com/app/615530/Love_Money_RocknRoll/
+{ "name": "Love, Money, Rock'n'Roll.exe", "type": "Game" }
+
+# Love n Life: Happy Student https://store.steampowered.com/app/3149980/Love_n_Life_Happy_Student/
+{ "name": "Happy Student.exe", "type": "Game" }
+
+# Love n Life: Lucky Teacher https://store.steampowered.com/app/2445340/
+{ "name": "Lucky Teacher.exe", "type": "Game" }
+
+# Lovers in a Dangerous Spacetime https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/
+{ "name": "LoversInADangerousSpacetime.exe", "type": "Game" }
+
+# Lovish https://store.steampowered.com/app/2959010/Lovish/
+{ "name": "Lovish.exe", "type": "Game" }
+
+# Low Magic Age https://store.steampowered.com/app/576770/Low_Magic_Age/
+{ "name": "low_magic_age.exe", "type": "Game" }
+
+# Lucid Blocks https://store.steampowered.com/app/3495730/Lucid_Blocks/
+{ "name": "lucid-blocks.exe", "type": "Game" }
+
+# Lucius https://store.steampowered.com/app/218640/Lucius/
+{ "name": "Lucius.exe", "type": "Game" }
+
+# Luck be a Landlord https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/
+{ "name": "Luck be a Landlord.exe", "type": "Game" }
+
+# Lucky Tower Ultimate https://store.steampowered.com/app/1700270/Lucky_Tower_Ultimate/
+{ "name": "Lucky Tower Ultimate.exe", "type": "Game" }
+
+# Lucy Got Problems https://store.steampowered.com/app/879510/
+{ "name": "LGP.exe", "type": "Game" }
+
+# LUFTRAUSERS https://store.steampowered.com/app/233150/LUFTRAUSERS/
+{ "name": "Luftrausers.exe", "type": "Game" }
+
+# Lugh World https://store.steampowered.com/app/3234720/Lugh_World/
+{ "name": "Lugh World.exe", "type": "Game" }
+
+# Luma Island https://store.steampowered.com/app/2408820/Luma_Island/
+{ "name": "Luma Island.exe", "type": "Game" }
+
+# Lumberjacked https://store.steampowered.com/app/3593780/Lumberjacked/
+{ "name": "Lumberjacked.exe", "type": "Game" }
+
+# Lumberjack's Dynasty https://store.steampowered.com/app/968970/Lumberjacks_Dynasty/
+{ "name": "LumberjacksDynasty.exe", "type": "Game" }
+
+# Lumina Veil https://store.steampowered.com/app/2840000/Lumina_Veil/
+{ "name": "Lumina Veil.exe", "type": "BG_CPUIO" }
+{ "name": "EternalTerror-Win64-Shipping.exe", "type": "Game" }
+
+# Lumines Arise https://store.steampowered.com/app/2370000/Lumines_Arise/
+{ "name": "LuminesArise.exe", "type": "Game" }
+
+# LUMINES REMASTERED https://store.steampowered.com/app/851670/LUMINES_REMASTERED/
+{ "name": "Lumines-remastered.exe", "type": "Game" }
+
+# Lumino City https://store.steampowered.com/app/205020/Lumino_City/
+{ "name": "Lumino City.exe", "type": "Game" }
+
+# Luna Abyss https://store.steampowered.com/app/1933000/Luna_Abyss/
+{ "name": "LunaAbyss.exe", "type": "BG_CPUIO" }
+{ "name": "LunaAbyss-Win64-Shipping.exe", "type": "Game" }
+
+# Lunacid https://store.steampowered.com/app/1745510/Lunacid/
+{ "name": "LUNACID.exe", "type": "Game" }
+
+# Lunar Eclipse https://store.steampowered.com/app/2953480/Lunar_Eclipse/
+{ "name": "LunarEclipse.exe", "type": "BG_CPUIO" }
+{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
+
+# Lunar Mirror:The Pavilion of Desire https://store.steampowered.com/app/2157680/Lunar_MirrorThe_Pavilion_of_Desire/
+{ "name": "Lunar MirrorThe Pavilion of Desire.exe", "type": "Game" }
+
+# LUNAR Remastered Collection https://store.steampowered.com/app/3255380/LUNAR_Remastered_Collection/
+{ "name": "lunar_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "lunar1.exe", "type": "Game" }
+{ "name": "lunar2.exe", "type": "Game" }
+
+# Lunch Lady https://store.steampowered.com/app/1571440/Lunch_Lady/
+{ "name": "ProjectCoop.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectCoop-Win64-Shipping.exe", "type": "Game" }
+
+# LurkBait Twitch Fishing https://store.steampowered.com/app/2767520/LurkBait_Twitch_Fishing/
+{ "name": "LurkBait Twitch Fishing.exe", "type": "Game" }
+
+# Lurk in the Dark : Prologue https://store.steampowered.com/app/1094030/Lurk_in_the_Dark__Prologue/
+{ "name": "Lurk in the Dark Prologue.exe", "type": "Game" }
+
+# Lushfoil Photography Sim https://store.steampowered.com/app/1749860/Lushfoil_Photography_Sim/
+{ "name": "LushfoilSim.exe", "type": "BG_CPUIO" }
+{ "name": "LushfoilSimVR.exe", "type": "BG_CPUIO" }
+{ "name": "LushfoilSim-Win64-Shipping.exe", "type": "Game" }
+
+# Lust Academy https://store.steampowered.com/app/1846920/
+{ "name": "Lust-Academy-32.exe", "type": "Game" }
+
+# Lust Academy Season 2 https://store.steampowered.com/app/2126680/
+{ "name": "Lust-Academy-2-Cordale-Pack.exe", "type": "Game" }
+{ "name": "Lust-Academy-2.exe", "type": "Game" }
+{ "name": "Lust-Academy-2-32.exe", "type": "Game" }
+
+# Lust Age Demo https://store.steampowered.com/app/4734810/
+{ "name": "LustAge.exe", "type": "Game" }
+
+# Lust Arcanum https://store.steampowered.com/app/3593520/
+{ "name": "LustArcanum.exe", "type": "Game" }
+
+# Lust Epidemic 18+ https://store.steampowered.com/app/3172860/
+{ "name": "Lust Epidemic 18+.exe", "type": "Game" }
+
+# Lust from Beyond https://store.steampowered.com/app/1035120/
+{ "name": "Lust From Beyond.exe", "type": "Game" }
+
+# Lustful Dead 🔞 https://store.steampowered.com/app/3375580/
+{ "name": "Lustful Dead.exe", "type": "Game" }
+
+# Lust Goddess https://store.steampowered.com/app/2808930/Lust_Goddess/
+{ "name": "Adult_wars.exe", "type": "Game" }
+
+# Lustquake Legion https://store.steampowered.com/app/3966480/
+{ "name": "Lustquake Legion.exe", "type": "Game" }
+
+# Lust's Cupid https://store.steampowered.com/app/2477270/
+{ "name": "LustsCupid.exe", "type": "Game" }
+
+# Lust Theory https://store.steampowered.com/app/1607130/
+{ "name": "LustTheoryS1.exe", "type": "Game" }
+
+# Lust Theory Season 2 https://store.steampowered.com/app/1754870/
+{ "name": "LustTheory2.exe", "type": "Game" }
+
+# Lyca https://store.steampowered.com/app/3421300/Lyca/
+{ "name": "Lyca.exe", "type": "Game" }
+
+# LYNE https://store.steampowered.com/app/266010/LYNE/
+{ "name": "LYNE.exe", "type": "Game" }
+
+# Lynked: Banner of the Spark https://store.steampowered.com/app/3159570/Lynked_Banner_of_the_Spark/
+{ "name": "Saturn-Win64-Shipping.exe", "type": "Game" }

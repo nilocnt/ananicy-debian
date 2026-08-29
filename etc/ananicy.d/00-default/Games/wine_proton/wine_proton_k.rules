@@ -1,0 +1,557 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### K ###
+
+# Kabounce https://store.steampowered.com/app/431930/Kabounce/
+{ "name": "KABOUNCE.exe", "type": "BG_CPUIO" }
+{ "name": "KABOUNCE-Win64-Shipping.exe", "type": "Game" }
+
+# Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
+{ "name": "KabutoPark.exe", "type": "Game" }
+
+# Kade Engine https://gamebanana.com/mods/44291/
+{ "name": "Kade Engine.exe", "type": "Game" }
+
+# Kagura Survivors: Endless Night https://store.steampowered.com/app/2348120/Kagura_Survivors_Endless_Night/
+{ "name": "Kagura_Survivors.exe", "type": "BG_CPUIO" }
+{ "name": "KaguraSurvivors-Win64-Shipping.exe", "type": "Game" }
+
+# KAIJU NO. 8 THE GAME https://store.steampowered.com/app/3393070/KAIJU_NO_8_THE_GAME/
+{ "name": "kaiju_no8_the_game.exe", "type": "Game" }
+
+# Kaiju Princess 2 https://store.steampowered.com/app/2289720/
+{ "name": "Kaiju Princess 2.exe", "type": "Game" }
+
+# Kairo https://store.steampowered.com/app/233230/Kairo/
+{ "name": "kairo.exe", "type": "Game" }
+
+# Kaiserpunk https://store.steampowered.com/app/2012190/KAISERPUNK/
+{ "name": "Kaiserpunk.exe", "type": "Game" }
+
+# Kaizen: A Factory Story https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/
+{ "name": "Kaizen.exe", "type": "Game" }
+
+# Kakele Online - MMORPG https://store.steampowered.com/app/1541020/Kakele_Online__MMORPG/
+{ "name": "kakele.exe", "type": "Game" }
+
+# Kaku Ancient Seal https://store.steampowered.com/app/1179580/KAKU_Ancient_Seal/
+{ "name": "KakuAncientSeal_protected.exe", "type": "Game" }
+
+# Kalimba https://store.steampowered.com/app/324140/Kalimba/
+{ "name": "Kalimba.exe", "type": "Game" }
+
+# KALPA: Cosmic Symphony https://store.steampowered.com/app/2717010/KALPA_Cosmic_Symphony/
+{ "name": "KALPA CosmicSymphony.exe", "type": "Game" }
+
+# KAMI https://store.steampowered.com/app/272040/KAMI/
+{ "name": "KAMI.exe", "type": "Game" }
+
+# KAMiBAKO - Mythology of Cube - https://store.steampowered.com/app/2081340/KAMiBAKO__Mythology_of_Cube/
+{ "name": "KAMiBAKO.exe", "type": "Game" }
+
+# KAMITSUBAKI CITY ENSEMBLE https://store.steampowered.com/app/2581050/KAMITSUBAKI_CITY_ENSEMBLE/
+{ "name": "KAMITSUBAKI CITY ENSEMBLE.exe", "type": "Game" }
+
+# Kandidatos https://store.steampowered.com/app/1395560/Kandidatos/
+{ "name": "Kandidatos.exe", "type": "Game" }
+
+# Kane and Lynch: Dead Men https://store.steampowered.com/app/8080/Kane_and_Lynch_Dead_Men/
+{ "name": "knlterm.exe", "type": "Game" }
+{ "name": "kaneandlynch.exe", "type": "Game" }
+
+# Kane & Lynch 2: Dog Days https://store.steampowered.com/app/28000/Kane__Lynch_2_Dog_Days/
+{ "name": "KL2.exe", "type": "Game" }
+
+# Kao the Kangaroo https://store.steampowered.com/app/1370140/Kao_the_Kangaroo/
+{ "name": "Kao the Kangaroo.exe", "type": "BG_CPUIO" }
+{ "name": "Kao-Win64-Shipping.exe", "type": "Game" }
+
+# Kao the Kangaroo: Round 2 https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease/
+{ "name": "kao2.exe", "type": "Game" }
+
+# KARAKARA https://store.steampowered.com/app/487430/KARAKARA/
+{ "name": "KARAKARA.exe", "type": "Game" }
+
+# Karate Survivor https://store.steampowered.com/app/3027930/Karate_Survivor/
+{ "name": "KarateSurvivor.exe", "type": "Game" }
+
+# KARDS - The WW2 Card Game https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/
+{ "name": "kards.exe", "type": "BG_CPUIO" }
+{ "name": "kards-Win64-Shipping.exe", "type": "Game" }
+
+# KARMA: The Dark World https://store.steampowered.com/app/1376200/KARMA_The_Dark_World/
+{ "name": "Karma.exe", "type": "Game" }
+
+# KarmaZoo https://store.steampowered.com/app/1661630/KarmaZoo/
+{ "name": "KarmaZoo.exe", "type": "Game" }
+
+# Karos https://store.steampowered.com/app/337410/Karos/
+{ "name": "launchpoint.exe", "type": "Game" }
+{ "name": "karos.exe", "type": "Game" }
+
+# KartKraft https://store.steampowered.com/app/406350/KartKraft/
+{ "name": "project_k.exe", "type": "Game" }
+
+# Kart Racing Pro https://store.steampowered.com/app/415600/Kart_Racing_Pro/
+{ "name": "kart.exe", "type": "Game" }
+
+# KartRider: Drift https://store.steampowered.com/app/1184140/KartRider_Drift/
+{ "name": "KartDrift.exe", "type": "BG_CPUIO" }
+{ "name": "KartDrift-Win64-Shipping.exe", "type": "Game" }
+
+# Katamari Damacy REROLL https://store.steampowered.com/app/848350/Katamari_Damacy_REROLL/
+{ "name": "katamari.exe", "type": "Game" }
+
+# Katana ZERO https://store.steampowered.com/app/460950/Katana_ZERO/
+{ "name": "Katana ZERO.exe", "type": "Game" }
+
+# Katawa Shoujo https://store.steampowered.com/app/3068300/Katawa_Shoujo/
+{ "name": "Katawa Shoujo.exe", "type": "Game" }
+
+# Kathana https://store.steampowered.com/app/2081880/Kathana/
+{ "name": "KathanaLauncher.exe", "type": "Game" }
+{ "name": "KathanaGame.exe", "type": "Game" }
+
+# Kathy Rain https://store.steampowered.com/app/370910/Kathy_Rain/
+{ "name": "KathyRain.exe", "type": "Game" }
+{ "name": "kathyrain.exe", "type": "Game" }
+
+# Kathy Rain 2: Soothsayer https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/
+{ "name": "KathyRain2.exe", "type": "Game" }
+
+# Kathy Rain: Director's Cut https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/
+{ "name": "KathyRainDirectorsCut.exe", "type": "Game" }
+
+# Kats Trigger https://store.steampowered.com/app/3324650/Kats_Trigger/
+{ "name": "GixJK.exe", "type": "Game" }
+
+# Kayak VR: Mirage https://store.steampowered.com/app/1683340/Kayak_VR_Mirage/
+{ "name": "Kayak_VR.exe", "type": "BG_CPUIO" }
+{ "name": "Kayak_VR-Win64-Shipping.exe", "type": "Game" }
+
+# KAZ https://store.steampowered.com/app/3633760/KAZ/
+{ "name": "Kaz_Win64.exe", "type": "Game" }
+
+# Kebab Chefs! - Restaurant Simulator https://store.steampowered.com/app/1001270/Kebab_Chefs__Restaurant_Simulator/
+{ "name": "Kebab Chefs! - Restaurant Simulator.exe", "type": "Game" }
+
+# Kebab Simulator: Prologue https://store.steampowered.com/app/2466680/Kebab_Simulator_Prologue/
+{ "name": "Kebab Simulator.exe", "type": "Game" }
+{ "name": "Kebab Chefs! - Restaurant Simulator Prologue.exe", "type": "Game" }
+
+# Keep Digging https://store.steampowered.com/app/3585800/Keep_Digging/
+{ "name": "KeepDigging.exe", "type": "BG_CPUIO" }
+{ "name": "KeepDigging-Win64-Shipping.exe", "type": "Game" }
+
+# Keep Driving https://store.steampowered.com/app/2756920/Keep_Driving/
+{ "name": "KeepDriving.exe", "type": "Game" }
+
+# Keeper https://store.steampowered.com/app/3043580/Keeper/
+{ "name": "Keeper.exe", "type": "BG_CPUIO" }
+{ "name": "Keeper-Win64-Shipping.exe", "type": "Game" }
+
+# KeeperRL https://store.steampowered.com/app/329970/KeeperRL/
+{ "name": "keeper.exe", "type": "Game" }
+
+# Keeper's Toll https://store.steampowered.com/app/2002220/Keepers_Toll/
+{ "name": "Keeper's Toll.exe", "type": "Game" }
+
+# KEEP GAMBLING https://store.steampowered.com/app/3720460/KEEP_GAMBLING/
+{ "name": "Kaching.exe", "type": "BG_CPUIO" }
+{ "name": "Kaching-Win64-Shipping.exe", "type": "Game" }
+
+# Keep It Up! Demo https://store.steampowered.com/app/4682480/
+{ "name": "ProjectLiftoff.exe", "type": "Game" }
+{ "name": "ProjectLiftoff-Win64-Shipping.exe", "type": "Game" }
+
+# Keep Me Gifted https://store.steampowered.com/app/3649900/Keep_Me_Gifted/
+{ "name": "Keep Me Gifted.exe", "type": "Game" }
+
+# Keep on Mining! https://store.steampowered.com/app/3769130/Keep_on_Mining/
+{ "name": "Keep on Mining!.exe", "type": "Game" }
+
+# Keep on Mining! - Worlds https://store.steampowered.com/app/4286550/Keep_on_Mining__Worlds/
+{ "name": "Keep on Mining! - Worlds.exe", "type": "Game" }
+
+# Keep Talking and Nobody Explodes https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/
+{ "name": "ktane.exe", "type": "Game" }
+
+# Kemono_Teatime https://store.steampowered.com/app/2698470/Kemono_Teatime/
+{ "name": "けものティータイム.exe", "type": "Game" }
+
+# Kena: Bridge of Spirits https://store.steampowered.com/app/1954200/Kena_Bridge_of_Spirits/
+{ "name": "Kena.exe", "type": "Game" }
+
+# Ken Follett's The Pillars of the Earth https://store.steampowered.com/app/234270/Ken_Folletts_The_Pillars_of_the_Earth/
+{ "name": "pillars.exe", "type": "Game" }
+{ "name": "pillars64.exe", "type": "Game" }
+
+# Kenshi https://store.steampowered.com/app/233860/Kenshi/
+{ "name": "kenshi_x64.exe", "type": "Game" }
+
+# Kentucky Route Zero: PC Edition https://store.steampowered.com/app/231200/Kentucky_Route_Zero_PC_Edition/
+{ "name": "KentuckyRouteZero.exe", "type": "Game" }
+
+# Keplerth https://store.steampowered.com/app/747200/Keplerth/
+{ "name": "Keplerth.exe", "type": "Game" }
+
+# Kerbal Space Program https://store.steampowered.com/app/220200/Kerbal_Space_Program/
+{ "name": "KSP_x64.exe", "type": "Game" }
+
+# Kerbal Space Program 2 https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/
+{ "name": "KSP2_x64.exe", "type": "Game" }
+
+# Kero Blaster https://store.steampowered.com/app/292500/Kero_Blaster/
+{ "name": "KeroBlaster.exe", "type": "Game" }
+
+# KeyWe https://store.steampowered.com/app/1242980/KeyWe/
+{ "name": "KeyWe.exe", "type": "Game" }
+
+# Kholat https://store.steampowered.com/app/343710/Kholat/
+{ "name": "Kholat.exe", "type": "BG_CPUIO" }
+{ "name": "Kholat-Win64-Shipping.exe", "type": "Game" }
+
+# KIBORG https://store.steampowered.com/app/2405060/KIBORG/
+{ "name": "Kiborg-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Kiborg.exe", "type": "BG_CPUIO" }
+
+# Kiki https://store.steampowered.com/app/2142680/Kiki/
+{ "name": "Kiki.exe", "type": "Game" }
+
+# killer7 https://store.steampowered.com/app/868520/killer7/
+{ "name": "Killer7Win.exe", "type": "Game" }
+
+# Killer Bean https://store.steampowered.com/app/1597080/Killer_Bean/
+{ "name": "Killer Bean.exe", "type": "Game" }
+
+# Killer Chat! - Original Edition https://store.steampowered.com/app/3476730/Killer_Chat__Original_Edition/
+{ "name": "KillerChat_Steam.exe", "type": "Game" }
+
+# Killer Frequency https://store.steampowered.com/app/1903620/Killer_Frequency/
+{ "name": "KillerFrequency.exe", "type": "Game" }
+
+# Killer: Infected One of Us https://store.steampowered.com/app/1453840/Killer_Infected_One_of_Us/
+{ "name": "KillerInfectedOU.exe", "type": "BG_CPUIO" }
+{ "name": "KillerInfectedOU-Win64-Shipping.exe", "type": "Game" }
+
+# KILLER INN https://store.steampowered.com/app/1598230/KILLER_INN/
+{ "name": "Killer Inn.exe", "type": "Game" }
+
+# Killer Instinct https://store.steampowered.com/app/577940/Killer_Instinct/
+{ "name": "KillerInstinctX64_r.exe", "type": "Game" }
+
+# Killer is Dead - Nightmare Edition https://store.steampowered.com/app/261110/Killer_is_Dead__Nightmare_Edition/
+{ "name": "KidGame.exe", "type": "Game" }
+
+# Killer Klowns From Outer Space: The Game https://store.steampowered.com/app/1556100/Killer_Klowns_From_Outer_Space_The_Game/
+{ "name": "Diony.exe", "type": "Game" }
+
+# Killing Floor https://store.steampowered.com/app/1250/Killing_Floor/
+{ "name": "KillingFloor.exe", "type": "Game" }
+
+# Killing Floor 2 https://store.steampowered.com/app/232090/Killing_Floor_2/
+{ "name": "KFGame.exe", "type": "Game" }
+
+# Killing Floor 3 https://store.steampowered.com/app/1430190/Killing_Floor_3/
+{ "name": "Nightfall.exe", "type": "BG_CPUIO" }
+{ "name": "NightfallClient.exe", "type": "BG_CPUIO" }
+{ "name": "NightfallClient-Win64-Shipping.exe", "type": "Game" }
+
+# Killing Room https://store.steampowered.com/app/407560/Killing_Room/
+{ "name": "KillingRoom.exe", "type": "Game" }
+
+# KILL KNIGHT https://store.steampowered.com/app/2694420/KILL_KNIGHT/
+{ "name": "KILL KNIGHT.exe", "type": "Game" }
+{ "name": "KillKnightRunner.exe", "type": "Game" }
+
+# Kill The Crows https://store.steampowered.com/app/2441270/Kill_The_Crows/
+{ "name": "revolver.exe", "type": "Game" }
+
+# Kill the Lich Idle https://store.steampowered.com/app/4522510/Kill_the_Lich_Idle/
+{ "name": "Kill The Lich.exe", "type": "Game" }
+
+# Kiln https://store.steampowered.com/app/1165990/Kiln/
+{ "name": "KilnGDKBootstrap.exe", "type": "BG_CPUIO" }
+{ "name": "Kiln-WinGDK-Shipping.exe", "type": "Game" }
+
+# Kindergarten https://store.steampowered.com/app/589590/Kindergarten/
+{ "name": "Kindergarten.exe", "type": "Game" }
+
+# Kindergarten 2 https://store.steampowered.com/app/1067850/Kindergarten_2/
+{ "name": "Kindergarten2.exe", "type": "Game" }
+
+# Kindergarten 3 https://store.steampowered.com/app/2695570/Kindergarten_3/
+{ "name": "Kindergarten3.exe", "type": "Game" }
+
+# Kind Words https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/
+{ "name": "Kind Words.exe", "type": "Game" }
+
+# Kinetic Void https://store.steampowered.com/app/227160/Kinetic_Void/
+{ "name": "Kinetic Void.exe", "type": "Game" }
+
+# King Arthur: Knight's Tale https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/
+{ "name": "KA_KT.exe", "type": "Game" }
+
+# King Arthur: Legion IX https://store.steampowered.com/app/2739830/King_Arthur_Legion_IX/
+{ "name": "KA_LIX.exe", "type": "Game" }
+
+# King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
+{ "name": "KAG.exe", "type": "Game" }
+
+# Kingdom Eighties https://store.steampowered.com/app/1956040/Kingdom_Eighties/
+{ "name": "Kingdom80s.exe", "type": "Game" }
+
+# KINGDOM HEARTS -HD 1.5+2.5 ReMIX- https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/
+{ "name": "KINGDOM HEARTS Birth by Sleep FINAL MIX.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS FINAL MIX.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS HD 1.5+2.5 ReMIX.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS II FINAL MIX.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS Re_Chain of Memories.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS Theater.exe", "type": "Game" }
+
+# KINGDOM HEARTS HD 2.8 Final Chapter Prologue https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/
+{ "name": "KINGDOM HEARTS 0.2 Birth by Sleep.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS Dream Drop Distance.exe", "type": "Game" }
+{ "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue.exe", "type": "Game" }
+{ "name": "WaitTitleProject.exe", "type": "Game" }
+
+# KINGDOM HEARTS III + Re Mind (DLC) https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/
+{ "name": "KINGDOM HEARTS III.exe", "type": "Game" }
+
+# Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
+{ "name": "Kingdom Rush Alliance.exe", "type": "Game" }
+
+# Kingdom Rush 6: Genesis TD Demo https://store.steampowered.com/app/4669880/Kingdom_Rush_6_Genesis_TD_Demo/
+{ "name": "Kingdom Rush Genesis Demo.exe", "type": "Game" }
+
+# Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
+{ "name": "Kingdom Rush Frontiers.exe", "type": "Game" }
+
+# Kingdom Rush Origins - Tower Defense https://store.steampowered.com/app/816340/Kingdom_Rush_Origins__Tower_Defense/
+{ "name": "Kingdom Rush Origins.exe", "type": "Game" }
+
+# Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
+{ "name": "Kingdom Rush.exe", "type": "Game" }
+
+# Kingdom Rush Vengeance - Tower Defense https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
+{ "name": "Kingdom Rush Vengeance.exe", "type": "Game" }
+
+# Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
+{ "name": "KingdomsAndCastles.exe", "type": "Game" }
+
+# Kingdoms of Amalur: Reckoning https://store.steampowered.com/app/102500/Kingdoms_of_Amalur_Reckoning/
+{ "name": "Reckoning.exe", "type": "Game" }
+
+# Kingdoms of Amalur: Re-Reckoning https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/
+{ "name": "koa.exe", "type": "Game" }
+
+# Kingdoms of the Dump https://store.steampowered.com/app/2159270/Kingdoms_of_the_Dump/
+{ "name": "kingdoms_of_the_dump.exe", "type": "Game" }
+
+# Kingdoms Reborn https://store.steampowered.com/app/1307890/Kingdoms_Reborn/
+{ "name": "KingdomsReborn.exe", "type": "Game" }
+
+# Kingdom Two Crowns https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
+{ "name": "KingdomTwoCrowns.exe", "type": "Game" }
+
+# Kingdom Wars https://store.steampowered.com/app/227180/Kingdom_Wars/
+{ "name": "Dawn.exe", "type": "Game" }
+{ "name": "Dof.exe", "type": "Game" }
+
+# King of Crabs https://store.steampowered.com/app/1273710/King_of_Crabs/
+{ "name": "King of Crabs.exe", "type": "Game" }
+
+# King of Kinks https://store.steampowered.com/app/1753410/
+{ "name": "KingOfKinks.exe", "type": "Game" }
+
+# King of Retail https://store.steampowered.com/app/968250/King_of_Retail/
+{ "name": "KingOfRetail.exe", "type": "Game" }
+
+# King of Retail 2 https://store.steampowered.com/app/2425150/King_of_Retail_2/
+{ "name": "KingofRetail2.exe", "type": "BG_CPUIO" }
+{ "name": "KingofRetail2-Win64-Shipping.exe", "type": "Game" }
+
+# King Of The Castle https://store.steampowered.com/app/1839880/King_Of_The_Castle/
+{ "name": "KingOfTheCastle.exe", "type": "Game" }
+
+# Kingpin — Life of Crime https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime/
+{ "name": "kingpin.exe", "type": "Game" }
+
+# King's Bounty: Crossworlds https://store.steampowered.com/app/63910/Kings_Bounty_Crossworlds/
+{ "name": "kb.exe", "type": "Game" }
+
+# King's Bounty: Dark Side https://store.steampowered.com/app/289520/Kings_Bounty_Dark_Side/
+{ "name": "KBDarkside.exe", "type": "Game" }
+
+# King's Bounty II https://store.steampowered.com/app/1135300/
+{ "name": "KingsBounty2.exe", "type": "Game" }
+
+# King’s Bounty: Legions https://store.steampowered.com/app/235400/Kings_Bounty_Legions/
+{ "name": "KingsBounty.exe", "type": "Game" }
+
+# King's Bounty: Warriors of the North https://store.steampowered.com/app/203350/Kings_Bounty_Warriors_of_the_North/
+{ "name": "KBWotN.exe", "type": "Game" }
+
+# King's Orders https://store.steampowered.com/app/1369690/Kings_Orders/
+{ "name": "King's Orders.exe", "type": "Game" }
+
+# King's Quest https://store.steampowered.com/app/345390/Kings_Quest/
+{ "name": "KingsQuest.exe", "type": "Game" }
+
+# KinitoPET https://store.steampowered.com/app/2075070/KinitoPET/
+{ "name": "KinitoPET.exe", "type": "Game" }
+{ "name": "lense.exe", "type": "Game" }
+
+# Kink.Inc https://store.steampowered.com/app/2190210/
+{ "name": "Kink Inc Steam.exe", "type": "Game" }
+
+# Kinkoi https://store.steampowered.com/app/1277940/Kinkoi_Golden_Loveriche/
+{ "name": "Kinkoi.exe", "type": "Game" }
+
+# Kinky Cats https://store.steampowered.com/app/3339200/
+{ "name": "Kinky Cats.exe", "type": "Game" }
+
+# Kiosk https://store.steampowered.com/app/3126330/Kiosk/
+{ "name": "Kiosk.exe", "type": "Game" }
+
+# Kitaria Fables https://store.steampowered.com/app/1356280/Kitaria_Fables/
+{ "name": "Kitaria Fables.exe", "type": "Game" }
+
+# Kitchen Simulator 2015 https://store.steampowered.com/app/399230/Kitchen_Simulator_2015/
+{ "name": "Kitchen_Simulator.exe", "type": "Game" }
+
+# Kitchen Wars https://store.steampowered.com/app/2955840/Kitchen_Wars/
+{ "name": "Kitchen Wars.exe", "type": "Game" }
+
+# Kitman Playtest https://store.steampowered.com/app/4456690/
+{ "name": "Kitman.exe", "type": "Game" }
+
+# Kittens Game https://store.steampowered.com/app/1097410/Kittens_Game/
+{ "name": "Kittens Game.exe", "type": "Game" }
+
+# Kitty Powers' Matchmaker https://store.steampowered.com/app/285740/Kitty_Powers_Matchmaker/
+{ "name": "matchmaker.exe", "type": "Game" }
+
+# Kiwi Clicker https://store.steampowered.com/app/1980530/Kiwi_Clicker__Juiced_Up/
+{ "name": "Kiwi Clicker.exe", "type": "Game" }
+
+# KLETKA https://store.steampowered.com/app/1699480/KLETKA/
+{ "name": "KLETKA.exe", "type": "Game" }
+
+# Klonoa Phantasy Reverie Series https://store.steampowered.com/app/1730680/Klonoa_Phantasy_Reverie_Series/
+{ "name": "Klonoa.exe", "type": "Game" }
+
+# Knightfall: A Daring Journey https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/
+{ "name": "Knightfall.exe", "type": "Game" }
+
+# Knightica https://store.steampowered.com/app/3093400/Knightica/
+{ "name": "Knightica.exe", "type": "Game" }
+
+# Knightly Passions https://store.steampowered.com/app/1554260/
+{ "name": "Knightly_passions.exe", "type": "Game" }
+{ "name": "Knightly_passions-32.exe", "type": "Game" }
+
+# Knight Online https://store.steampowered.com/app/389430/Knight_Online/
+{ "name": "KnightOnLine.exe", "type": "Game" }
+
+# Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
+{ "name": "KM_TPR.exe", "type": "Game" }
+{ "name": "Knights_and_Merchants_steam.exe", "type": "Game" }
+{ "name": "Puzzle_KaM.exe", "type": "Game" }
+
+# Knights End https://store.steampowered.com/app/4204530/Knights_End/
+{ "name": "KnightsEnd.exe", "type": "BG_CPUIO" }
+{ "name": "KnightsEnd-Win64-Shipping.exe", "type": "Game" }
+
+# KnightShift https://store.steampowered.com/app/254060/KnightShift/
+{ "name": "KnightShift.exe", "type": "Game" }
+
+# Knights in Tight Spaces https://store.steampowered.com/app/2315400/Knights_in_Tight_Spaces/
+{ "name": "KnightsInTightSpaces.exe", "type": "Game" }
+
+# Knights of Braveland https://store.steampowered.com/app/1253610/Knights_of_Braveland/
+{ "name": "braveknights.exe", "type": "Game" }
+
+# Knights of Honor https://store.steampowered.com/app/25830/Knights_of_Honor/
+{ "name": "KoH.exe", "type": "Game" }
+
+# Knights of Honor II: Sovereign https://store.steampowered.com/app/736820/Knights_of_Honor_II_Sovereign/
+{ "name": "Sovereign.exe", "type": "Game" }
+
+# Knights of Pen and Paper +1 Edition https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/
+{ "name": "knightspp.exe", "type": "Game" }
+
+# Knights of Pen and Paper 2 https://store.steampowered.com/app/310060/Knights_of_Pen_and_Paper_2/
+{ "name": "kopp2.exe", "type": "Game" }
+
+# Knock-knock https://store.steampowered.com/app/250380/Knockknock/
+{ "name": "knock.cfg.exe", "type": "Game" }
+{ "name": "knock.exe", "type": "Game" }
+
+# Knock on the Coffin Lid https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/
+{ "name": "Knock.exe", "type": "Game" }
+
+# KoboldKare https://store.steampowered.com/app/1102930/
+{ "name": "KoboldKare.exe", "type": "Game" }
+
+# Koltera https://store.steampowered.com/app/2233750/Koltera/
+{ "name": "fableverse.exe", "type": "Game" }
+
+# Koltera 2 https://store.steampowered.com/app/2834700/Koltera_2/
+{ "name": "Koltera 2.exe", "type": "Game" }
+
+# Komadori Inn https://store.steampowered.com/app/2789410/
+{ "name": "Komadori Inn.exe", "type": "Game" }
+
+# Kona https://store.steampowered.com/app/365160/Kona/
+{ "name": "Kona.exe", "type": "Game" }
+
+# Kotama and Academy Citadel https://store.steampowered.com/app/3639650/Kotama_and_Academy_Citadel/
+{ "name": "KotamaAcademyCitadel.exe", "type": "Game" }
+
+# KovaaK's https://store.steampowered.com/app/824270/KovaaKs/
+{ "name": "FPSAimTrainer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FPSAimTrainer.exe", "type": "BG_CPUIO" }
+
+# Kristala https://store.steampowered.com/app/1206410/Kristala/
+{ "name": "Kristala.exe", "type": "BG_CPUIO" }
+{ "name": "Kristala-Win64-Shipping.exe", "type": "Game" }
+
+# Krita https://store.steampowered.com/app/280680/Krita/
+{ "name": "krita.exe", "type": "Game" }
+{ "name": "kritarunner.exe", "type": "Game" }
+
+# Krunker https://store.steampowered.com/app/1408720/Krunker/
+{ "name": "Official Krunker.io Client.exe", "type": "Game" }
+
+# Krush Kill ‘N Destroy 2: Krossfire https://store.steampowered.com/app/1292180/Krush_Kill_N_Destroy_2_Krossfire/
+{ "name": "kknd2.exe", "type": "Game" }
+{ "name": "KKND2.exe", "type": "Game" }
+
+# Kukoro: Stream chat games https://store.steampowered.com/app/1166990/Kukoro_Stream_chat_games/
+{ "name": "Kukoro Stream chat games.exe", "type": "Game" }
+
+# KuloNiku: Bowl Up! https://store.steampowered.com/app/3357960/KuloNiku_Bowl_Up/
+{ "name": "KuloNiku.exe", "type": "Game" }
+
+# Kung Fu Strike - The Warrior's Rise https://store.steampowered.com/app/212030/Kung_Fu_Strike__The_Warriors_Rise/
+{ "name": "KungFuStrike.exe", "type": "Game" }
+
+# Kunitsu-Gami: Path of the Goddess https://store.steampowered.com/app/2510710/KunitsuGami_Path_of_the_Goddess/
+{ "name": "KunitsuGami.exe", "type": "Game" }
+
+# Kuroinu Redux https://store.steampowered.com/app/2348170/Kuroinu_Redux/
+{ "name": "Kuroinu Redux.exe", "type": "Game" }
+
+# KurtzPel https://store.steampowered.com/app/844870/KurtzPel/
+{ "name": "TheChase.exe", "type": "BG_CPUIO" }
+{ "name": "TheChase-Win64-Shipping.exe", "type": "Game" }
+
+# Kynseed https://store.steampowered.com/app/758870/Kynseed/
+{ "name": "Kynseed.exe", "type": "Game" }
+
+# KYOTO XANADU -the Blooming Phantom- https://store.steampowered.com/app/4449410/KYOTO_XANADU_the_Blooming_Phantom/
+{ "name": "kyoto_xanadu.exe", "type": "Game" }

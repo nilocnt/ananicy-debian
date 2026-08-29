@@ -1,0 +1,313 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### H ###
+
+# Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
+{ "name": "HackerEvolution", "type": "Game" }
+
+# Hacker Evolution - Untold https://store.steampowered.com/app/70110/Hacker_Evolution_Untold/
+{ "name": "Hacker Evolution Untold", "type": "Game" }
+
+# Hacknet https://store.steampowered.com/app/365450/Hacknet/
+{ "name": "Hacknet", "type": "Game" }
+
+# Hadean Tactics https://store.steampowered.com/app/1260590/Hadean_Tactics/
+{ "name": "HadeanTactics.x86_64", "type": "Game" }
+
+# Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
+{ "name": "hades_linux.x64", "type": "Game" }
+
+# Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
+{ "name": "hl2mp_linux64", "type": "Game" }
+
+# Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
+{ "name": "hlvr", "type": "Game" }
+
+# Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
+{ "name": "hl1mp_linux64", "type": "Game" }
+
+# Halfway House https://store.steampowered.com/app/3678710/
+{ "name": "Halfway_House_Steam", "type": "Game" }
+
+# Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
+{ "name": "HallsOfTorment.x86_64", "type": "Game" }
+
+# Hammerfight https://store.steampowered.com/app/41100/Hammerfight/
+{ "name": "Hammerfight", "type": "Game" }
+
+# Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
+{ "name": "RunHammerwatch", "type": "Game" }
+
+# Hamster Combat https://store.steampowered.com/app/2376170/Hamster_Combat/
+{ "name": "Hamster Combat.x86_64", "type": "Game" }
+
+# Hamster Hunter https://store.steampowered.com/app/2726490/Hamster_Hunter/
+{ "name": "hh.x86_64", "type": "Game" }
+
+# Hamsteria Demo https://store.steampowered.com/app/4440600/Hamsteria_Demo/
+{ "name": "HamsteriaDemoLinux.x86_64", "type": "Game" }
+
+# Hamster Playground https://store.steampowered.com/app/1442670/Hamster_Playground/
+{ "name": "Hamster Playground.x86_64", "type": "Game" }
+
+# Handmancers Demo https://store.steampowered.com/app/2451240/Handmancers_Demo/
+{ "name": "Handmancers.x86_64", "type": "Game" }
+
+# Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
+{ "name": "Hand of Fate.x86", "type": "Game" }
+{ "name": "Hand of Fate.x86_64", "type": "Game" }
+
+# Hand of Fate 2 https://store.steampowered.com/app/456670/
+{ "name": "Hand of Fate 2.x86", "type": "Game" }
+{ "name": "Hand of Fate 2.x86_64", "type": "Game" }
+
+# Happy Room https://store.steampowered.com/app/550010/Happy_Room/
+{ "name": "Happy Room.x86_64", "type": "Game" }
+
+# Hard West https://store.steampowered.com/app/307670/Hard_West/
+{ "name": "HardWest.x86", "type": "Game" }
+{ "name": "HardWest.x86_64", "type": "Game" }
+
+# Hatred https://store.steampowered.com/app/341940/Hatred/
+{ "name": "Hatred-Linux-Shipping", "type": "Game" }
+
+# Havendock https://store.steampowered.com/app/2020710/Havendock/
+{ "name": "Havendock", "type": "Game" }
+
+# Heads Will Roll: Reforged https://store.steampowered.com/app/687800/Heads_Will_Roll_Reforged/
+{ "name": "headswillroll_reforged", "type": "Game" }
+
+# Heart Cage https://store.steampowered.com/app/2570850/
+{ "name": "HeartCage_1.0", "type": "Game" }
+
+# Hearts of Iron IV https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
+{ "name": "hoi4", "type": "Game" }
+
+# Heatwave: Sam's Stay https://store.steampowered.com/app/4103530/
+{ "name": "Heatwave", "type": "Game" }
+
+# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
+{ "name": "hedgewars", "type": "Game"}
+{ "name": "hedgewars-server", "type": "Service"}
+
+# Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
+{ "name": "heliborne.x86_64", "type": "Game" }
+{ "name": "heliborne.x64", "type": "Game" }
+
+# Hellpoint https://store.steampowered.com/app/628670/Hellpoint/
+{ "name": "Hellpoint.x86_64", "type": "Game" }
+
+# Helltaker https://store.steampowered.com/app/1289310/Helltaker/
+{ "name": "helltaker_lnx.x86_64", "type": "Game" }
+
+# Helping the Hotties https://store.steampowered.com/app/1590730/
+{ "name": "HelpingTheHotties", "type": "Game" }
+
+# Hentai Police https://store.steampowered.com/app/1198730/
+{ "name": "Default Linux desktop 64-bit.x86_64", "type": "Game" }
+
+# Heroes of Hammerwatch https://store.steampowered.com/app/677120/Heroes_of_Hammerwatch/
+{ "name": "HWR", "type": "Game" }
+
+# Heroes of Science and Fiction https://store.steampowered.com/app/2147380/Heroes_of_Science_and_Fiction/
+{ "name": "silence_of_the_siren.x86_64", "type": "Game" }
+
+# Heroes Wanted https://store.steampowered.com/app/2667410/Heroes_Wanted/
+{ "name": "HeroesWanted.x86_64", "type": "Game" }
+
+# Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
+{ "name": "Heroine'sQuest", "type": "Game" }
+
+# Hero of the Kingdom https://store.steampowered.com/app/259550/Hero_of_the_Kingdom/
+{ "name": "Hero of the Kingdom", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom", "type": "Game" }
+
+# Hero of the Kingdom III https://store.steampowered.com/app/772430/Hero_of_the_Kingdom_III/
+{ "name": "Hero of the Kingdom III", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom_III", "type": "Game" }
+
+# Hero Siege https://store.steampowered.com/app/269210/Hero_Siege/
+{ "name": "Hero_Siege", "type": "Game" }
+
+# hexceed https://store.steampowered.com/app/1463920/hexceed/
+{ "name": "hexceed", "type": "Game" }
+
+# Hexcells https://store.steampowered.com/app/265890/Hexcells/
+{ "name": "Hexcells.x86", "type": "Game" }
+{ "name": "Hexcells.x86_64", "type": "Game" }
+
+# Hexcells Infinite https://store.steampowered.com/app/304410/Hexcells_Infinite/
+{ "name": "Hexcells Infinite.x86", "type": "Game" }
+{ "name": "Hexcells Infinite.x86_64", "type": "Game" }
+
+# Hexcells Plus https://store.steampowered.com/app/271900/Hexcells_Plus/
+{ "name": "Hexcells Plus.x86", "type": "Game" }
+{ "name": "Hexcells Plus.x86_64", "type": "Game" }
+
+# Hexen II: Hammer of Thyrion http://uhexen2.sourceforge.net/
+{ "name": "glhexen2", "type": "Game" }
+{ "name": "glhwcl", "type": "Game" }
+{ "name": "hexen2", "type": "Game" }
+{ "name": "hwcl", "type": "Game" }
+
+# Hex of Steel https://store.steampowered.com/app/1240630/Hex_of_Steel/
+{ "name": "Hex of Steel.x86_64", "type": "Game" }
+
+# Hidden Folks https://store.steampowered.com/app/435400/Hidden_Folks/
+{ "name": "Hidden Folks.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou+ https://store.steampowered.com/app/2491040/Higurashi_When_They_Cry_Hou/
+{ "name": "HigurashiEp10.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.1 Onikakushi https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou__Ch1_Onikakushi/
+{ "name": "HigurashiEp01.x86", "type": "Game" }
+{ "name": "HigurashiEp01.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.2 Watanagashi https://store.steampowered.com/app/410890/Higurashi_When_They_Cry_Hou__Ch2_Watanagashi/
+{ "name": "HigurashiEp02.x86", "type": "Game" }
+{ "name": "HigurashiEp02.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.3 Tatarigoroshi https://store.steampowered.com/app/472870/Higurashi_When_They_Cry_Hou__Ch3_Tatarigoroshi/
+{ "name": "HigurashiEp03.x86", "type": "Game" }
+{ "name": "HigurashiEp03.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.4 Himatsubushi https://store.steampowered.com/app/526490/Higurashi_When_They_Cry_Hou__Ch4_Himatsubushi/
+{ "name": "HigurashiEp04.x86", "type": "Game" }
+{ "name": "HigurashiEp04.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.5 Meakashi https://store.steampowered.com/app/577480/Higurashi_When_They_Cry_Hou__Ch5_Meakashi/
+{ "name": "HigurashiEp05.x86", "type": "Game" }
+{ "name": "HigurashiEp05.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi https://store.steampowered.com/app/668350/Higurashi_When_They_Cry_Hou__Ch6_Tsumihoroboshi/
+{ "name": "HigurashiEp06.x86_64", "type": "Game" }
+{ "name": "HigurashiEp06.x86", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.7 Minagoroshi https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/
+{ "name": "HigurashiEp07.x86_64", "type": "Game" }
+{ "name": "HigurashiEp07.x86", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.8 Matsuribayashi https://store.steampowered.com/app/1243670/Higurashi_When_They_Cry_Hou__Ch8_Matsuribayashi/
+{ "name": "HigurashiEp08.x86_64", "type": "Game" }
+{ "name": "HigurashiEp08.x86", "type": "Game" }
+
+# Higurashi When They Cry Hou - Rei https://store.steampowered.com/app/1941110/Higurashi_When_They_Cry_Hou__Rei/
+{ "name": "HigurashiEp09.x86_64", "type": "Game" }
+
+# HITMAN https://store.steampowered.com/app/236870/HITMAN/
+{ "name": "HitmanPro", "type": "Game" }
+
+# HOARD https://store.steampowered.com/app/63000/HOARD/
+{ "name": "Reuben.bin.x86", "type": "Game" }
+
+# Hobo: Tough Life https://store.steampowered.com/app/632300/Hobo_Tough_Life/
+{ "name": "HoboRPG.x86_64", "type": "Game" }
+
+# Hollow Knight https://store.steampowered.com/app/367520/Hollow_Knight/
+{ "name": "hollow_knight.x86_64", "type": "Game" }
+
+# Hollow Knight: Silksong https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
+{ "name": "Hollow Knight Silksong", "type": "Game" }
+
+# Holyday City: Reloaded https://store.steampowered.com/app/728730/Holyday_City_Reloaded/
+{ "name": "Holyday City Reloaded.x86_64", "type": "Game" }
+
+# Home Behind https://store.steampowered.com/app/467960/Home_Behind/
+{ "name": "HomeBehind.x86", "type": "Game" }
+{ "name": "HomeBehind.x86_64", "type": "Game" }
+
+# Home Behind 2 https://store.steampowered.com/app/1220010/Home_Behind_2/
+{ "name": "HomeBehind2.x86", "type": "Game" }
+{ "name": "HomeBehind2.x86_64", "type": "Game" }
+
+# Homefront: The Revolution https://store.steampowered.com/app/223100/Homefront_The_Revolution/
+{ "name": "run_hf2", "type": "Game" }
+
+# Hook https://store.steampowered.com/app/367580/Hook/
+{ "name": "hook.x86_64", "type": "Game" }
+
+# Horizon Chase Turbo https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/
+{ "name": "HorizonChase.x86_64", "type": "Game" }
+{ "name": "HorizonChase.x86", "type": "Game" }
+
+# Horny Villa https://store.steampowered.com/app/2903690/
+{ "name": "HornyVilla.x86_64", "type": "Game" }
+{ "name": "HornyVilla-linux-prod.x86_64", "type": "Game" }
+
+# HOROS - Magnifica https://store.steampowered.com/app/1888300/
+{ "name": "HOROS", "type": "Game" }
+
+# Horses of Hoofprint Bay Demo https://store.steampowered.com/app/4335510/Horses_of_Hoofprint_Bay_Demo/
+{ "name": "Horses-of-Hoofprint-Bay_Linux.x86_64", "type": "Game" }
+
+# Hotline Miami https://store.steampowered.com/app/219150/Hotline_Miami/
+{ "name": "Hotline", "type": "Game" }
+
+# Hotline Miami 2 Wrong Number https://store.steampowered.com/app/274170/Hotline_Miami_2_Wrong_Number/
+{ "name": "HotlineMiami2", "type": "Game" }
+
+# House of Detention https://store.steampowered.com/app/1293230/
+{ "name": "House of Detention Linux.x86_64", "type": "Game" }
+
+# House of Lizards https://store.steampowered.com/app/2230070/House_of_Lizards/
+{ "name": "HouseOfLizards.x86_64", "type": "Game" }
+
+# Hover https://store.steampowered.com/app/280180/Hover/
+{ "name": "Hover.x86", "type": "Game" }
+
+# Hue https://store.steampowered.com/app/383270/Hue/
+{ "name": "Hue.x86", "type": "Game" }
+{ "name": "Hue.x86_64", "type": "Game" }
+
+# Hull Rupture Demo https://store.steampowered.com/app/4809240/Hull_Rupture_Demo/
+{ "name": "HullRupture.x86_64", "type": "Game" }
+
+# Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
+{ "name": "Human.x86_64", "type": "Game" }
+{ "name": "Human.x86", "type": "Game" }
+
+# Human Resource Machine https://store.steampowered.com/app/375820/Human_Resource_Machine/
+{ "name": "HumanResourceMachine.bin.x86", "type": "Game" }
+{ "name": "HumanResourceMachine.bin.x86_64", "type": "Game" }
+
+# HunieCam Studio https://store.steampowered.com/app/426000/HunieCam_Studio/
+{ "name": "HunieCamStudio.x86", "type": "Game" }
+{ "name": "HunieCamStudio.x86_64", "type": "Game" }
+
+# HuniePop https://store.steampowered.com/app/339800/HuniePop/
+{ "name": "HuniePop.x86", "type": "Game" }
+{ "name": "HuniePop.x86_64", "type": "Game" }
+
+# Hunt and Snare https://store.steampowered.com/app/944330/
+{ "name": "ruffleneck.x64", "type": "Game" }
+
+# HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
+{ "name": "Huntdown.x86_64", "type": "Game" }
+
+# Huntdown: Overtime https://store.steampowered.com/app/2473350/HUNTDOWN_OVERTIME/
+{ "name": "Huntdown_Overtime.x86_64", "type": "Game" }
+
+# Hurtworld https://store.steampowered.com/app/393420/Hurtworld/
+{ "name": "Hurtworld.x86_64", "type": "Game" }
+
+# Hush Hush - Only Your Love Can Save Them https://store.steampowered.com/app/782250/Hush_Hush__Only_Your_Love_Can_Save_Them/
+{ "name": "HushHush", "type": "Game" }
+{ "name": "HushHush.x86", "type": "Game" }
+
+# HYPERCHARGE: Unboxed https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/
+{ "name": "Unboxed-Linux-Shipping", "type": "Game" }
+
+# Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
+{ "name": "HyperLightDrifter", "type": "Game" }
+
+# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
+{ "name": "hyper64", "type": "Game" }
+
+# Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
+{ "name": "HypnOS", "type": "Game" }
+
+# Hytale https://hytale.com/
+{ "name": "HytaleClient", "type": "Game" }

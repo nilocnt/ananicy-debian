@@ -1,0 +1,126 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### K ###
+
+# Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
+{ "name": "KabutoPark.x86_64", "type": "Game" }
+
+# Kade Engine https://gamebanana.com/mods/44291/
+{ "name": "Kade Engine", "type": "Game" }
+
+# Kairo https://store.steampowered.com/app/233230/Kairo/
+{ "name": "Kairo", "type": "Game" }
+
+# Kaizen: A Factory Story https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/
+{ "name": "Kaizen", "type": "Game" }
+
+# Kakele Online - MMORPG https://store.steampowered.com/app/1541020/Kakele_Online__MMORPG/
+{ "name": "kakele", "type": "Game" }
+
+# Katawa Shoujo https://store.steampowered.com/app/3068300/Katawa_Shoujo/
+{ "name": "Katawa Shoujo", "type": "Game" }
+
+# Kathy Rain 2: Soothsayer https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/
+{ "name": "KathyRain2.x64", "type": "Game" }
+
+# Kathy Rain: Director's Cut https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/
+{ "name": "KathyRainDirectorsCut.x64", "type": "Game" }
+
+# KeeperRL https://store.steampowered.com/app/329970/KeeperRL/
+{ "name": "keeper", "type": "Game" }
+
+# Keep Talking and Nobody Explodes https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/
+{ "name": "ktane.x86", "type": "Game" }
+{ "name": "ktane.x86_64", "type": "Game" }
+
+# Ken Follett's The Pillars of the Earth https://store.steampowered.com/app/234270/Ken_Folletts_The_Pillars_of_the_Earth/
+{ "name": "pillars", "type": "Game" }
+
+# Kentucky Route Zero: PC Edition https://store.steampowered.com/app/231200/Kentucky_Route_Zero_PC_Edition/
+{ "name": "KentuckyRouteZero.x86", "type": "Game" }
+{ "name": "KentuckyRouteZero.x86_64", "type": "Game" }
+
+# Kerbal Space Program https://store.steampowered.com/app/220200/Kerbal_Space_Program/
+{ "name": "KSP.x86_64", "type": "Game" }
+
+# Killer Chat! - Original Edition https://store.steampowered.com/app/3476730/Killer_Chat__Original_Edition/
+{ "name": "KillerChat_Steam", "type": "Game" }
+
+# Killing Floor https://store.steampowered.com/app/1250/Killing_Floor/
+{ "name": "killingfloor-bin", "type": "Game" }
+
+# Kindergarten 3 https://store.steampowered.com/app/2695570/Kindergarten_3/
+{ "name": "Kindergarten3.x86_64", "type": "Game" }
+
+# Kind Words https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/
+{ "name": "Kind Words.x86_64", "type": "Game" }
+
+# Kinetic Void https://store.steampowered.com/app/227160/Kinetic_Void/
+{ "name": "Kinetic Void.x86", "type": "Game" }
+{ "name": "Kinetic Void.x86_64", "type": "Game" }
+
+# King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
+{ "name": "KAG", "type": "Game" }
+
+# Kingdom Eighties https://store.steampowered.com/app/1956040/Kingdom_Eighties/
+{ "name": "Kingdom80s.x86", "type": "Game" }
+
+# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
+{ "name": "Kingdom.x86_64", "type": "Game" }
+
+# Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
+{ "name": "krf-love", "type": "Game" }
+
+# Kingdom Rush Origins https://store.steampowered.com/app/816340/Kingdom_Rush_Origins__Tower_Defense/
+{ "name": "Kingdom Rush Origins", "type": "Game" }
+
+# Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
+{ "name": "Kingdom Rush.x86", "type": "Game" }
+
+# Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
+{ "name": "KingdomsAndCastles.x86_64", "type": "Game" }
+
+# Kingdoms of the Dump https://store.steampowered.com/app/2159270/Kingdoms_of_the_Dump/
+{ "name": "kingdoms_of_the_dump", "type": "Game" }
+
+# Kingdom Two Crowns https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
+{ "name": "KingdomTwoCrowns.x86", "type": "Game" }
+
+# Kiosk https://store.steampowered.com/app/3126330/Kiosk/
+{ "name": "Kiosk.x86_64", "type": "Game" }
+
+# Kitten Space Agency https://ahwoo.com/store/KPbAA1Au/kitten-space-agency
+{ "name": "KSA", "type": "Game" }
+
+# Kittens Game https://store.steampowered.com/app/1097410/Kittens_Game/
+{ "name": "kg-steam", "type": "Game" }
+
+# KLETKA https://store.steampowered.com/app/1699480/KLETKA/
+{ "name": "KLETKA-Linux-Shipping", "type": "Game" }
+
+# Knightly Passions https://store.steampowered.com/app/1554260/
+{ "name": "Knightly_passions", "type": "Game" }
+
+# Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
+{ "name": "RunGameRemake", "type": "Game" }
+
+# Knights of Pen and Paper +1 Edition https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/
+{ "name": "knightspp.x86", "type": "Game" }
+
+# Knights of Pen and Paper 2 https://store.steampowered.com/app/310060/Knights_of_Pen_and_Paper_2/
+{ "name": "kopp2.x86", "type": "Game" }
+
+# Knock-knock https://store.steampowered.com/app/250380/Knockknock/
+{ "name": "knock.x86", "type": "Game" }
+
+# KoboldKare https://store.steampowered.com/app/1102930/
+{ "name": "KoboldKare", "type": "Game" }
+
+# Kona https://store.steampowered.com/app/365160/Kona/
+{ "name": "Kona.x86_64", "type": "Game" }
+
+# Kotama and Academy Citadel https://store.steampowered.com/app/3639650/Kotama_and_Academy_Citadel/
+{ "name": "KotamaAcademyCitadel.bin", "type": "Game" }

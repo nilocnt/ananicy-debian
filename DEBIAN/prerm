@@ -1,26 +1,25 @@
 #!/bin/sh
 set -e
 
-# O dpkg passa argumentos para o script indicando a ação atual.
-# "remove" quando o pacote está sendo desinstalado.
-# "upgrade" quando uma nova versão está sendo instalada por cima.
-
 case "$1" in
-    remove|upgrade)
-        if systemctl is-active --quiet ananicy-cpp; then
-            echo "Parando o serviço ananicy-cpp para manipulação do pacote..."
-            systemctl stop ananicy-cpp
+    remove|upgrade|deconfigure)
+        if [ -d /run/systemd/system ]; then
+            if systemctl is-active --quiet ananicy-cpp.service 2>/dev/null; then
+                systemctl stop ananicy-cpp.service >/dev/null || true
+            fi
+            if [ "$1" = "remove" ]; then
+                systemctl disable ananicy-cpp.service >/dev/null || true
+            fi
         fi
-        ;;
+    ;;
 
     failed-upgrade)
-        # Caso a atualização falhe e o sistema tente reverter, nenhuma ação é necessária aqui
-        ;;
+    ;;
 
     *)
         echo "prerm chamado com argumento desconhecido: $1" >&2
         exit 1
-        ;;
+    ;;
 esac
 
 exit 0

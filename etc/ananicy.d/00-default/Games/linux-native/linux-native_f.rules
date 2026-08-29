@@ -1,0 +1,205 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### F ###
+
+# F1 2015 https://store.steampowered.com/app/286570/F1_2015/
+{ "name": "F12015", "type": "Game" }
+
+# F1 2017 https://store.steampowered.com/app/515220/F1_2017/
+{ "name": "F12017", "type": "Game" }
+
+# FACEMINER https://store.steampowered.com/app/2276980/FACEMINER/
+{ "name": "FACEMINER", "type": "Game" }
+
+# Faeria https://store.steampowered.com/app/397060/Faeria/
+{ "name": "Faeria.x86", "type": "Game" }
+{ "name": "Faeria.x86_64", "type": "Game" }
+
+# Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
+{ "name": "Fahrenheit", "type": "Game" }
+
+# Fake Lay https://store.steampowered.com/app/1191420/
+{ "name": "fakelay", "type": "Game" }
+
+# Fantasy Online 2 https://store.steampowered.com/app/2957110/Fantasy_Online_2/
+{ "name": "fov4-steam", "type": "Game" }
+
+# Farabel https://store.steampowered.com/app/364200/Farabel/
+{ "name": "Farabel.x86_64", "type": "Game" }
+{ "name": "Farabel.x86", "type": "Game" }
+
+# Farm Empire https://store.steampowered.com/app/2320130/Farm_Empire/
+{ "name": "FarmEmpire.x86_64", "type": "Game" }
+
+# Farm Together https://store.steampowered.com/app/673950/Farm_Together/
+{ "name": "FarmTogether", "type": "Game" }
+
+# Fattening Career Demo https://store.steampowered.com/app/2595490/
+{ "name": "Fattening_Career", "type": "Game" }
+
+# fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
+{ "name": "faultms1", "type": "Game" }
+
+# FEED THE QUEEN https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
+{ "name": "feedthequeen.x86_64", "type": "Game" }
+
+# Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
+{ "name": "Fell Seal.x86_64", "type": "Game" }
+{ "name": "Fell Seal.x86", "type": "Game" }
+
+# FEMBOY called it “MASSAGE”😈💦 https://store.steampowered.com/app/3920180/
+{ "name": "FemboyCalledItMassage.x86_64", "type": "Game" }
+
+# Femboy Futa Mania 🌶️ https://store.steampowered.com/app/4280140/
+{ "name": "FemboyFutaMania.x86_64", "type": "Game" }
+
+# Fetish Locator: S&M Studio https://store.steampowered.com/app/3763690/
+{ "name": "SM", "type": "Game" }
+
+# Fetish Locator Week One https://store.steampowered.com/app/1360980/
+{ "name": "FetishLocator", "type": "Game" }
+
+# Fetish Locator Week Three https://store.steampowered.com/app/2231010/
+{ "name": "FetishLocatorWeek3", "type": "Game" }
+
+# Fetish Locator Week Two https://store.steampowered.com/app/1684170/
+{ "name": "FetishLocatorWeek2", "type": "Game" }
+
+# FEZ https://store.steampowered.com/app/224760/FEZ/
+{ "name": "FEZ", "type": "Game" }
+
+# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
+{ "name": "FibbageXL_Vulkan", "type": "Game" }
+{ "name": "FibbageXL_OpenGL", "type": "Game" }
+
+# Fight The Dragon https://store.steampowered.com/app/250560/Fight_The_Dragon/
+{ "name": "FightTheDragon", "type": "Game" }
+
+# Figment https://store.steampowered.com/app/493540/Figment/
+{ "name": "Figment.x86", "type": "Game" }
+{ "name": "Figment.x86_64", "type": "Game" }
+
+# Finding Paradise https://store.steampowered.com/app/337340/Finding_Paradise/
+{ "name": "FindingParadise.amd64", "type": "Game" }
+{ "name": "FindingParadise.x86", "type": "Game" }
+
+# Firestone – Idle Clicker Online RPG https://store.steampowered.com/app/1013320/Firestone__Idle_Clicker_Online_RPG/
+{ "name": "Firestone.x86_64", "type": "Game" }
+
+# Firewatch https://store.steampowered.com/app/383870/Firewatch/
+{ "name": "fw.x86_64", "type": "Game" }
+
+# First Day https://store.steampowered.com/app/1067810/First_Day/
+{ "name": "First Day.x86", "type": "Game" }
+
+# Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
+{ "name": "FishingPlanet.X86_64", "type": "Game" }
+
+# Five Hearts Under One Roof season2 https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/
+{ "name": "FHUOR2.x86_64", "type": "Game" }
+
+# Flowers Blooming at the End of Summer https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/
+{ "name": "flowersblooming", "type": "Game" }
+
+# Fogpiercer Demo https://store.steampowered.com/app/3350900/Fogpiercer_Demo/
+{ "name": "Fogpiercer-demo.x86_64", "type": "Game" }
+
+# Folk Tale https://store.steampowered.com/app/224440/Folk_Tale/
+{ "name": "Folk Tale.x84_64", "type": "Game" }
+
+# FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
+{ "name": "FootLOL Epic Fail League.x86", "type": "Game" }
+
+# Forager https://store.steampowered.com/app/751780/Forager/
+{ "name": "Forager", "type": "Game" }
+
+# Forbidden Fantasy https://store.steampowered.com/app/2638560/
+{ "name": "Forbidden-Fantasy", "type": "Game" }
+
+# FORCED https://store.steampowered.com/app/249990/FORCED_Slightly_Better_Edition/
+{ "name": "FORCED.x86_64", "type": "Game" }
+{ "name": "FORCED.x86", "type": "Game" }
+
+# Force of Warships https://store.steampowered.com/app/1991860/Force_of_Warships_Battleship_Games/
+{ "name": "Force of Warships.x86_64", "type": "Game" }
+
+# Forsaken Remastered https://store.steampowered.com/app/668980/Forsaken_Remastered/
+{ "name": "ForsakenEx", "type": "Game" }
+
+# FORTIFY https://store.steampowered.com/app/505040/FORTIFY/
+{ "name": "Fortify.x86_64", "type": "Game" }
+
+# FortressCraft Evolved! https://store.steampowered.com/app/254200/FortressCraft_Evolved/
+{ "name": "launchlinux", "type": "Game" }
+
+# FPV SkyDive : FPV Drone Simulator https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
+{ "name": "FPV.SkyDive.x86_64", "type": "Game" }
+
+# Fran Bow https://store.steampowered.com/app/362680/Fran_Bow/
+{ "name": "Fran Bow.x86_64", "type": "Game" }
+
+# Frederic: Resurrection of Music https://store.steampowered.com/app/301190/Frederic_Resurrection_of_Music/
+{ "name": "Frederic.x86", "type": "Game" }
+
+# Free Solitaire https://store.steampowered.com/app/3330280/Free_Solitaire/
+{ "name": "FreeSolitaire.x86_64", "type": "Game" }
+{ "name": "FreeSolitaire_Linux", "type": "Game" }
+
+# freesynd https://freesynd.sourceforge.io/
+{ "name": "freesynd", "type": "Game" }
+
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+{ "name": "Julia In Japan", "type": "Game" }
+{ "name": "ChloesDesireExpress", "type": "Game" }
+
+# Friendly Steps Demo https://store.steampowered.com/app/4708970/
+{ "name": "Friendly Steps.x86_64", "type": "Game" }
+
+# Friendship with Benefits https://store.steampowered.com/app/1299370/
+{ "name": "FriendshipwithBenefits", "type": "Game" }
+
+# From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
+{ "name": "From_The_Depths.x86", "type": "Game" }
+{ "name": "From_The_Depths.x86_64", "type": "Game" }
+
+# Frontline 1942 https://store.steampowered.com/app/2564660/Frontline_1942_Battles_of_the_World_War_2/
+{ "name": "Frontline 1942.x86_64", "type": "Game" }
+
+# Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
+{ "name": "FrozenSynapse", "type": "Game" }
+
+# FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
+{ "name": "FTL", "type": "Game" }
+
+# FUCK HITLER https://store.steampowered.com/app/2157110/FUCK_HITLER/
+{ "name": "FH-Linux-Shipping", "type": "Game" }
+
+# FUCK PUTIN https://store.steampowered.com/app/1926680/FUCK_PUTIN/
+{ "name": "FP-Linux-Shipping", "type": "Game" }
+
+# Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
+{ "name": "Throttle", "type": "Game" }
+
+# Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
+{ "name": "Funi_Raccoon_Game.x86_64", "type": "Game" }
+
+# Funkin https://github.com/FunkinCrew/Funkin/
+{ "name": "Funkin", "type": "Game" }
+
+# Furnish Master https://store.steampowered.com/app/2004080/Furnish_Master/
+{ "name": "FurnishMaster-Linux-Shipping", "type": "Game" }
+
+# Furry Love https://store.steampowered.com/app/1334590/
+{ "name": "Furry Love.x86_64", "type": "Game" }
+
+# Furry Love 2 https://store.steampowered.com/app/1349040/
+{ "name": "Furry Love 2.x86_64", "type": "Game" }
+
+# Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
+{ "name": "FuryUnleashed.x86_64", "type": "Game" }
+
+# FUTA FIGHT & FUCK 🥊 https://store.steampowered.com/app/4491210/
+{ "name": "FutaFight&Fuck.x86_64", "type": "Game" }

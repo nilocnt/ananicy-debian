@@ -1,7 +1,21 @@
 #!/bin/sh
 set -e
 
-# Recarregando o daemon e ativando o serviço
-systemctl daemon-reload
-systemctl enable ananicy-cpp
-systemctl start ananicy-cpp
+case "$1" in
+    configure|abort-upgrade|abort-deconfigure|abort-remove)
+        if [ -d /run/systemd/system ]; then
+            systemctl --system daemon-reload >/dev/null || true
+            if ! systemctl is-enabled --quiet ananicy-cpp.service 2>/dev/null; then
+                systemctl enable ananicy-cpp.service >/dev/null || true
+            fi
+            systemctl restart ananicy-cpp.service >/dev/null || true
+        fi
+    ;;
+
+    *)
+        echo "postinst chamado com argumento desconhecido: $1" >&2
+        exit 1
+    ;;
+esac
+
+exit 0

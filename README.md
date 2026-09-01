@@ -1,13 +1,13 @@
-# Ananicy-CPP Rules for Debian / Ubuntu
+# Ananicy-CPP + Rules for Debian / Ubuntu
 
-[![GitHub Release](https://img.shields.io/github/v/release/nilocnt/ananicy-cpp-rules?style=for-the-badge&color=blue)](https://github.com/nilocnt/ananicy-cpp-rules/releases)
-[![Debian Package](https://img.shields.io/badge/package-.deb-orange?style=for-the-badge&logo=debian)](https://github.com/nilocnt/ananicy-cpp-rules/releases/latest)
-[![Architecture](https://img.shields.io/badge/arch-amd64-green?style=for-the-badge)](https://github.com/nilocnt/ananicy-cpp-rules/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/nilocnt/ananicy-debian?style=for-the-badge&color=blue)](https://github.com/nilocnt/ananicy-debian/releases)
+[![Debian Package](https://img.shields.io/badge/package-.deb-orange?style=for-the-badge&logo=debian)](https://github.com/nilocnt/ananicy-debian/releases/latest)
+[![Architecture](https://img.shields.io/badge/arch-amd64-green?style=for-the-badge)](https://github.com/nilocnt/ananicy-debian/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](LICENSE)
 
-**Ananicy-CPP** daemon with community-driven rules from **CachyOS**, packaged ready-to-use for Debian, Ubuntu, AnduinOS, and derivatives.
+**Ananicy-CPP** daemon including community-driven rules from **CachyOS**, packaged ready-to-use for Debian, Ubuntu, AnduinOS, and derivatives.
 
-[📥 Download Latest .deb](https://github.com/nilocnt/ananicy-cpp-rules/releases/latest) • [📖 Features](#-features) • [🚀 Installation](#-installation) • [⚙️ Configuration](#️-configuration) • [🙏 Credits](#-credits-and-acknowledgments)
+[📥 Download Latest .deb](https://github.com/nilocnt/ananicy-debian/releases/latest) • [📖 Features](#-features) • [🚀 Installation](#-installation) • [⚙️ Configuration](#️-configuration) • [🙏 Credits](#-credits-and-acknowledgments)
 
 ---
 
@@ -35,17 +35,17 @@ This repository bundles:
 ## 🚀 Installation
 
 ### Option 1: Graphical Install (Easiest)
-1. Download the latest `.deb` package from [Releases](https://github.com/nilocnt/ananicy-cpp-rules/releases/latest).
+1. Download the latest `.deb` package from [Releases](https://github.com/nilocnt/ananicy-debian/releases/latest).
 2. Double-click the downloaded `.deb` file and click **Install**.
 
 ### Option 2: Terminal Install
 
 ```bash
 # Download the latest release package
-wget https://github.com/nilocnt/ananicy-cpp-rules/releases/download/v1.2.48/ananicy-cpp-rules-1.2.48.deb
+wget https://github.com/nilocnt/ananicy-debian/releases/download/v1.2.48-1/ananicy-debian_1.2.48-1_amd64.deb
 
 # Install using apt (resolves any missing runtime dependencies automatically)
-sudo apt install ./ananicy-cpp-rules-1.2.48.deb
+sudo apt install ./ananicy-debian_1.2.48-1_amd64.deb
 ```
 
 ---

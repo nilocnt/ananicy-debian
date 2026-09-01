@@ -1,6 +1,5 @@
 name: Build and Release Debian Package
 
-# A rotina será executada automaticamente sempre que você enviar uma tag começando com "v" (ex: v1.2.49)
 on:
   push:
     tags:
@@ -9,53 +8,41 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-    # 1. Baixa o código do seu repositório para a máquina virtual do GitHub
-    - name: Checkout do código
-      uses: actions/checkout@v4
+      - name: Checkout do código
+        uses: actions/checkout@v4
 
-    # 2. Executa a estruturação e criação do .deb
-    - name: Construir o pacote .deb
-      run: |
-        # Extrai o número da versão a partir do nome da tag (ex: v1.2.49 -> 1.2.49)
-        VERSION=${GITHUB_REF#refs/tags/v}
-        PKG_NAME="ananicy-cpp-rules"
-        BUILD_DIR="${PKG_NAME}-${VERSION}"
+      - name: Construir o pacote .deb
+        shell: bash
+        run: |
+          set -euo pipefail
 
-        # Cria a estrutura de diretórios do pacote Debian
-        mkdir -p ${BUILD_DIR}/DEBIAN
-        mkdir -p ${BUILD_DIR}/usr/bin
-        mkdir -p ${BUILD_DIR}/etc/ananicy.d
-        mkdir -p ${BUILD_DIR}/lib/systemd/system
+          VERSION="${GITHUB_REF#refs/tags/v}"
+          PKG_NAME="ananicy-debian"
+          BUILD_DIR="${PKG_NAME}-${VERSION}"
 
-        # Gera o arquivo control dinamicamente
-        cat <<EOF > ${BUILD_DIR}/DEBIAN/control
-        Package: ${PKG_NAME}
-        Version: ${VERSION}
-        Architecture: amd64
-        Maintainer: nilocnt
-        Depends: systemd, libc6, libstdc++6
-        Description: Ananicy-CPP daemon with community-driven rules from CachyOS.
-        EOF
+          rm -rf "${BUILD_DIR}"
+          mkdir -p "${BUILD_DIR}"
 
-        # Copia os arquivos do repositório para a estrutura do pacote
-        # Ajuste os diretórios de origem abaixo conforme a organização real do seu repositório
-        cp ananicy-cpp ${BUILD_DIR}/usr/bin/
-        cp -r rules/* ${BUILD_DIR}/etc/ananicy.d/
-        cp ananicy-cpp.service ${BUILD_DIR}/lib/systemd/system/
+          cp -a DEBIAN "${BUILD_DIR}/"
+          cp -a etc "${BUILD_DIR}/"
+          cp -a lib "${BUILD_DIR}/"
+          cp -a usr "${BUILD_DIR}/"
+          cp -a LICENSE "${BUILD_DIR}/"
+          cp -a README.md "${BUILD_DIR}/"
 
-        # Ajusta permissões
-        chmod 755 ${BUILD_DIR}/DEBIAN
-        chmod 755 ${BUILD_DIR}/usr/bin/ananicy-cpp
+          sed -i "s/^Version: .*/Version: ${VERSION}/" "${BUILD_DIR}/DEBIAN/control"
 
-        # Constrói o arquivo .deb
-        dpkg-deb --build ${BUILD_DIR}
+          test -x "${BUILD_DIR}/usr/bin/ananicy-cpp"
 
-    # 3. Publica o .deb gerado na aba "Releases" do GitHub
-    - name: Publicar Release
-      uses: softprops/action-gh-release@v1
-      with:
-        files: "*.deb"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          dpkg-deb --build "${BUILD_DIR}" "${PKG_NAME}_${VERSION}_amd64.deb"
+
+      - name: Publicar Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "*.deb"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

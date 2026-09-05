@@ -26,7 +26,7 @@ jobs:
       - name: Build package
         run: |
           mkdir -p "$RUNNER_TEMP/ananicy-debian"
-          tar --exclude=.git --exclude=.github -cf - . | tar -xf - -C "$RUNNER_TEMP/ananicy-debian"
+          tar --exclude=.git --exclude=.github --exclude=.gitignore --exclude=README.md --exclude=LICENSE -cf - . | tar -xf - -C "$RUNNER_TEMP/ananicy-debian"
           dpkg-deb --build --root-owner-group "$RUNNER_TEMP/ananicy-debian" ../ananicy-debian.deb
 
       - name: Validate package metadata
@@ -35,4 +35,4 @@ jobs:
           dpkg-deb --contents ../ananicy-debian.deb
 
       - name: Run lintian
-        run: lintian --no-tag-display-limit ../ananicy-debian.deb
+        run: lintian --tag-display-limit 0 ../ananicy-debian.deb

@@ -1,0 +1,2 @@
+ananicy-debian: file-in-etc-not-marked-as-conffile
+ananicy-debian: statically-linked-binary [usr/bin/ananicy-cpp]

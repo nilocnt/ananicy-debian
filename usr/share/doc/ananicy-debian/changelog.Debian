@@ -1,7 +1,0 @@
-ananicy-debian (1.2.48-1) unstable; urgency=medium
-
-  * Package Ananicy-CPP with the CachyOS community rules.
-  * Add systemd integration for automatic service startup.
-  * Standardize the systemd unit path under /usr/lib.
-
- -- nilocnt <nilocnt@gmail.com>  Sat, 05 Sep 2026 19:40:00 -0300

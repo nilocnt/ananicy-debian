@@ -1,0 +1,3 @@
+ananicy-debian: file-in-etc-not-marked-as-conffile [etc/ananicy.d/*]
+ananicy-debian: file-in-etc-not-marked-as-conffile [etc/security/limits.d/*]
+ananicy-debian: statically-linked-binary [usr/bin/ananicy-cpp]

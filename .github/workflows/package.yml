@@ -36,3 +36,10 @@ jobs:
 
       - name: Run lintian
         run: lintian --tag-display-limit 0 ../ananicy-debian.deb
+
+      - name: Upload Debian package
+        uses: actions/upload-artifact@v4
+        with:
+          name: ananicy-debian
+          path: ../ananicy-debian.deb
+          if-no-files-found: error

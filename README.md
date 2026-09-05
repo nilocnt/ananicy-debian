@@ -111,7 +111,7 @@ sudo systemctl disable ananicy-cpp.service
 The installed unit is:
 
 ```text
-/lib/systemd/system/ananicy-cpp.service
+/usr/lib/systemd/system/ananicy-cpp.service
 ```
 
 The service runs:
@@ -149,12 +149,12 @@ DEBIAN/
 etc/
 ├── ananicy.d/
 └── security/limits.d/
-lib/
-└── systemd/system/
-    └── ananicy-cpp.service
 usr/
 ├── bin/
 │   └── ananicy-cpp
+├── lib/
+│   └── systemd/system/
+│       └── ananicy-cpp.service
 └── share/doc/ananicy-cpp-rules/
 ```
 

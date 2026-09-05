@@ -1,0 +1,20 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Ananicy-CPP
+Upstream-Contact: https://gitlab.com/ananicy-cpp/ananicy-cpp
+Source: https://gitlab.com/ananicy-cpp/ananicy-cpp
+
+Files: *
+Copyright: Ananicy-CPP contributors
+License: GPL-3+
+
+Files: etc/ananicy.d/00-default/*
+Copyright: CachyOS team and contributors
+License: GPL-3+
+
+Files: debian/*
+Copyright: 2026 nilocnt
+License: GPL-3+
+
+License: GPL-3+
+ On Debian systems, the complete text of the GNU General Public License
+ version 3 can be found in /usr/share/common-licenses/GPL-3.

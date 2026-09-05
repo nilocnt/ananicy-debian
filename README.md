@@ -122,10 +122,16 @@ The service runs:
 
 ## Building the package
 
-This repository contains a prepared Debian package tree. Build it with:
+This repository contains a prepared Debian package tree. Build it from a clean staging directory so repository metadata and root-level documentation are not included in the package:
 
 ```bash
-dpkg-deb --build --root-owner-group . ../ananicy-debian_VERSION_amd64.deb
+staging_dir="$(mktemp -d)"
+trap 'rm -rf "$staging_dir"' EXIT
+tar --exclude=.git --exclude=.github --exclude=.gitignore \
+    --exclude=README.md --exclude=LICENSE \
+    -cf - . | tar -xf - -C "$staging_dir"
+dpkg-deb --build --root-owner-group \
+    "$staging_dir" ../ananicy-debian_VERSION_amd64.deb
 ```
 
 Inspect the generated package with:

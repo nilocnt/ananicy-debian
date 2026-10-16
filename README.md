@@ -27,7 +27,7 @@ This repository is a downstream packaging project. It combines the Ananicy-CPP e
 
 ## What's Changed
 
-- [ananicy-rules](https://github.com/CachyOS/ananicy-rules/releases/tag/1.1.49)
+- [1.1.49](https://github.com/CachyOS/ananicy-rules/releases/tag/1.1.49)
 
 ## Requirements
 

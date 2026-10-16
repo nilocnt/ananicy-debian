@@ -179,7 +179,7 @@ usr/
 
 Bug reports, packaging improvements, and rule suggestions are welcome through [GitHub Issues](https://github.com/nilocnt/ananicy-debian/issues) and pull requests.
 
-For new process rules, first check the upstream CachyOS [ananicy-rules] repository (https://github.com/CachyOS/ananicy-rules) and follow its contribution guidelines.
+For new process rules, first check the upstream CachyOS [ananicy-rules](https://github.com/CachyOS/ananicy-rules) repository and follow its contribution guidelines.
 
 ## Credits
 

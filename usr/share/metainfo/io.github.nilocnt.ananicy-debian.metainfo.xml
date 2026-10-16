@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="console-application">
+  <id>io.github.nilocnt.ananicy-debian</id>
+  <name>Ananicy Cpp</name>
+  <summary>Automatically adjust process scheduling and I/O priorities</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <description>
+    <p>
+      Ananicy Cpp is a system daemon that applies scheduling and I/O-priority
+      rules to running processes. It can also organize processes into control
+      groups.
+    </p>
+    <p>
+      This package includes community-maintained rules from CachyOS, adapted
+      for AnduinOS, and integrates the daemon with systemd.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/nilocnt/ananicy-debian</url>
+  <url type="bugtracker">https://github.com/nilocnt/ananicy-debian/issues</url>
+  <url type="vcs-browser">https://github.com/nilocnt/ananicy-debian</url>
+  <developer id="io.github.nilocnt">
+    <name>Ananicy-Debian contributors</name>
+  </developer>
+  <content_rating type="oars-1.1"/>
+  <provides>
+    <binary>ananicy-cpp</binary>
+  </provides>
+</component>

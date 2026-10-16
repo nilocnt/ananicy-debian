@@ -13,7 +13,7 @@
     </p>
     <p>
       This package includes community-maintained rules from CachyOS, adapted
-      for AnduinOS, and integrates the daemon with systemd.
+      for Debian/Ubuntu, and integrates the daemon with systemd.
     </p>
   </description>
   <url type="homepage">https://github.com/nilocnt/ananicy-debian</url>

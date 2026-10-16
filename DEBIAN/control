@@ -1,5 +1,5 @@
 Package: ananicy-debian
-Version: 1.2.49-1
+Version: 1.2.49-2
 Section: admin
 Priority: optional
 Architecture: amd64
@@ -7,4 +7,4 @@ Depends: systemd, libc6, libstdc++6, libsystemd0
 Maintainer: nilocnt <nilocnt@gmail.com>
 Homepage: https://github.com/nilocnt/ananicy-debian
 Description: Ananicy daemon with community-driven rules of CachyOS
- Ananicy (ANother Auto NICe daemon) is a shell daemon created to manage processes' IO and CPU priorities. This package includes the community-driven set of rules for popular applications from CachyOS, optimized for the AnduinOS environment. Anyone may add their own rule via GitHub's pull request mechanism.
+ Ananicy (ANother Auto NICe daemon) is a shell daemon created to manage processes' IO and CPU priorities. This package includes the community-driven set of rules for popular applications from CachyOS, optimized for the Debian/Ubuntu environment. Anyone may add their own rule via GitHub's pull request mechanism.

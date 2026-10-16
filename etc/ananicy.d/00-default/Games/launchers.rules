@@ -68,7 +68,7 @@
 { "name": "fjordlauncher", "type": "Game" }
 
 # Bottles https://github.com/bottlesdevs/bottles
-{ "name": "bottles", "type": "Launcher" } 
+{ "name": "bottles", "type": "Launcher" }
 
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
@@ -109,3 +109,7 @@
 # ALVR https://github.com/alvr-org/ALVR
 { "name": "alvr-launcher", "type": "Launcher" }
 { "name": "alvr-dashboard", "type": "BG_CPUIO" }
+
+# San Andreas Multiplayer, a community modification to play Grand Theft Auto: San Andreas online
+# https://sa-mp.mp/ (community-run; official website was shutdown)
+{ "name": "samp.exe", "type": "Launcher" }

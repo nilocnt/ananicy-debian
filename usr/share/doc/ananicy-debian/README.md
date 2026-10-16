@@ -5,9 +5,9 @@
 [![Architecture](https://img.shields.io/badge/architecture-amd64-green?style=for-the-badge)](https://github.com/nilocnt/ananicy-debian/releases/latest)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)](LICENSE)
 
-An unofficial Debian package of [Ananicy-CPP](https://gitlab.com/ananicy-cpp/ananicy-cpp), bundled with the community-maintained rules from [CachyOS ananicy-rules](https://github.com/CachyOS/ananicy-rules).
+An unofficial Debian package of [Ananicy-CPP](https://gitlab.com/ananicy-cpp/ananicy-cpp), bundled with the community-maintained rules from [ananicy-rules](https://github.com/CachyOS/ananicy-rules).
 
-The package provides a ready-to-use systemd service for Debian, Ubuntu, AnduinOS, and compatible distributions.
+The package provides a ready-to-use systemd service for Debian/Ubuntu and compatible distributions.
 
 ## Overview
 
@@ -24,6 +24,10 @@ This repository is a downstream packaging project. It combines the Ananicy-CPP e
 - Resource and service hardening directives.
 - Configuration under `/etc/ananicy.d/`.
 - Support for custom local rules.
+
+## What's Changed
+
+- [1.1.49](https://github.com/CachyOS/ananicy-rules/releases/tag/1.1.49)
 
 ## Requirements
 
@@ -96,7 +100,7 @@ Example:
 
 Avoid absolute executable paths. Ananicy-CPP matches process names.
 
-The upstream rules project provides additional examples and contribution guidance in its [rules README](https://github.com/CachyOS/ananicy-rules).
+The upstream rules project provides additional examples and contribution guidance in its rules [README](https://github.com/CachyOS/ananicy-rules).
 
 ## Service management
 
@@ -175,12 +179,13 @@ usr/
 
 Bug reports, packaging improvements, and rule suggestions are welcome through [GitHub Issues](https://github.com/nilocnt/ananicy-debian/issues) and pull requests.
 
-For new process rules, first check the upstream [CachyOS ananicy-rules repository](https://github.com/CachyOS/ananicy-rules) and follow its contribution guidelines.
+For new process rules, first check the upstream CachyOS [ananicy-rules](https://github.com/CachyOS/ananicy-rules) repository and follow its contribution guidelines.
 
 ## Credits
 
+- [CachyOS](https://github.com/CachyOS) — community-maintained rules.
 - [Ananicy-CPP](https://gitlab.com/ananicy-cpp/ananicy-cpp) — daemon implementation.
-- [CachyOS ananicy-rules](https://github.com/CachyOS/ananicy-rules) — community-maintained rules.
+- [ananicy-rules](https://github.com/CachyOS/ananicy-rules) — community-maintained rules.
 - Debian packaging and systemd integration — maintained by [nilocnt](https://github.com/nilocnt).
 
 ## License
